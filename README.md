@@ -3,8 +3,6 @@
 <!--
 **edaaydinea/edaaydinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
 - 🎓 I'm currently MicroMaster student in Artificial Intelligence at Columbia University.
 - 💻 I'm currently working as Machine Learning and Data Science Volunteer Researcher at Arterys. 
 - 🔭 I’m currently working on development of machine learning resarch, apply medical image processing techniques to build, maintain, and improve analytics COVID-19 datasets to gain actionable insights. 
