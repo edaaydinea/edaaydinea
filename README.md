@@ -10,6 +10,6 @@
 - 💬 Get in touch ai.codingwoman@outlook.com
 - 📫 How to reach me: 
   - Linkedin : https://www.linkedin.com/in/edaaydinea/
-  - Twitter : https://mobile.twitter.com/edaaydinea
+  - Twitter : https://twitter.com/edaaydinea
   - Personal Blog: https://aicodingwoman.home.blog/
 
