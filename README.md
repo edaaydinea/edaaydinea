@@ -3,10 +3,10 @@
 <!--
 **edaaydinea/edaaydinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🎓 I'm currently **Micro Master student in Artificial Intelligence** at Columbia University. (Remotely)
-- 💻 I'm currently working as COVID-19 Medical Image AI Model Research and Development Engineer at Arterys (Remotely)
+- 🎓 I'm currently ***Micro Master student in Artificial Intelligence*** at Columbia University. (Remotely)
+- 💻 I'm currently working as ***COVID-19 Medical Image AI Model Research and Development Engineer*** at Arterys (Remotely)
 - 🔭 I’m currently working on development of machine learning resarch, apply medical image processing techniques to build, maintain, and improve analytics COVID-19 datasets to gain actionable insights. 
-- 🌱 I’m currently learning **Neuroscience, Neuroimaging, Genomics, Bioinformatics, Robotics, Animation and CGI Motion.** 😃
+- 🌱 I’m currently learning ***Neuroscience, Neuroimaging, Genomics, Bioinformatics, Robotics, Animation and CGI Motion.*** 😃
 - 💬 Get in touch eda.aicodingwoman@outlook.com
 - 📝 I regularly write articles on https://aicodingwoman.home.blog/
 
