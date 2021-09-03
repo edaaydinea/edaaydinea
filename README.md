@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on development of machine learning resarch, apply medical image processing techniques to build, maintain, and improve analytics COVID-19 datasets to gain actionable insights. 
 - 🌱 I’m currently learning ***Neuroscience, Neuroimaging, Genomics, Bioinformatics, Clinical Data Science, Data Mining, Statistical Analysis for Public Health.*** 😃
 - 💬 Get in touch eda.aicodingwoman@outlook.com
-- 📝 I regularly write articles on https://edaaydinea.wordpress.com/aicodingwoman
+- 📝 I regularly write articles on https://edaaydinea.wordpress.com/blog
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
