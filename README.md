@@ -3,7 +3,7 @@
 <!--
 **edaaydinea/edaaydinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🎓 I graduated with Bachelor's degree in Computer Engineering from Altınbaş University and MicroMaster's degree in Artificial Intelligence from Columbia University.
+- 🎓 I graduated with ***Bachelor's degree in Computer Engineering*** from Altınbaş University and ***MicroMaster's degree in Artificial Intelligence*** from Columbia University.
 - 👩‍🎓 I'm currently doing ***MicroMasters in Computer Science (Computational Biology) | Biomedical Engineering (Neuroengineering)*** at Columbia University. (Remotely)
 - 🧠 I'm currently working as ***Research Intern*** at Menzies Institute for Medical Research. (Remote | Part-time)
 - 💻 I'm currently working as ***COVID-19 Medical Image AI Model Research and Development Engineer*** at Arterys. (Volunteer - Remotely)
