@@ -3,10 +3,12 @@
 <!--
 **edaaydinea/edaaydinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🎓 I'm currently doing ***MicroMasters in Artificial Intelligence, Biomedical Engineering (Neuroengineering)*** at Columbia University. (Remotely)
+- 🎓 I graduated with Bachelor's degree in Computer Engineering from Altınbaş University and MicroMaster's degree in Artificial Intelligence from Columbia University.
+- 👩‍🎓 I'm currently doing ***MicroMasters in Computer Science (Computational Biology) | Biomedical Engineering (Neuroengineering)*** at Columbia University. (Remotely)
+- 🧠 I'm currently working as ***Research Intern*** at Menzies Institute for Medical Research. (Remote | Part-time)
 - 💻 I'm currently working as ***COVID-19 Medical Image AI Model Research and Development Engineer*** at Arterys. (Volunteer - Remotely)
 - 🔭 I’m currently working on development of machine learning resarch, apply medical image processing techniques to build, maintain, and improve analytics COVID-19 datasets to gain actionable insights. 
-- 🌱 I specialize in ***Neuroscience, Neuroimaging,Neuroengineering, Computational Neuroscience, Genomics, Bioinformatics, Cancer Research.*** 😃
+- 🌱 I specialize in ***Neuroscience, Neuroimaging,Neuroengineering, Computational Neuroscience, Computatinal Biology, Genomics, Bioinformatics, Cancer Research.*** 😃
 - 💬 Get in touch eda.aicodingwoman@outlook.com
 - 📝 I regularly write articles on https://edaaydinea.home.blog/aicodingwoman/
 
