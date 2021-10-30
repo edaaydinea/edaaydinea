@@ -6,7 +6,6 @@
 - 🎓 I graduated with ***Bachelor's degree in Computer Engineering*** from Altınbaş University and ***MicroMaster's degree in Artificial Intelligence*** from Columbia University.
 - 👩‍🎓 I'm currently doing ***MicroMasters in Computer Science (Computational Biology) | Biomedical Engineering (Neuroengineering)*** at Columbia University. (Remotely)
 - 🧠 I'm currently working as ***Research and Development Intern*** based on researching artificial intelligence models for Multiple Sclerosis at Menzies Institute for Medical Research. (Remote | Part-time)
-- 🧠 I'm currently working as ***Research and Development Intern*** based on researching artificial intelligence models for Dementia at Wicking Dementia Resarch and Education Center. (Remote | Part-time)
 - 💻 I'm currently working as ***COVID-19 Medical Image AI Model Research and Development Engineer*** at Arterys. (Volunteer - Remotely)
 - 🔭 I’m currently working on development of machine learning resarch, apply medical image processing techniques to build, maintain, and improve analytics COVID-19 datasets to gain actionable insights. 
 - 🌱 I specialize in ***Neuroscience,Cognitive Neuroscience, Computational Neuroscience, Neurological Disorders, Computatinal Biology, Genomics, Bioinformatics, Cancer Research.*** 😃
