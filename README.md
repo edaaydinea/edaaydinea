@@ -6,11 +6,12 @@
 - 🎓 I graduated with ***Bachelor's degree in Computer Engineering*** from Altınbaş University and ***MicroMaster's degree in Artificial Intelligence*** from Columbia University.
 - 👩‍🎓 I'm currently doing ***MicroMasters in Computer Science (Computational Biology) | Biomedical Engineering (Neuroengineering)*** at Columbia University. (Remotely)
 - 🧠 I'm currently working as ***Research and Development Intern*** based on researching artificial intelligence models for Multiple Sclerosis at Menzies Institute for Medical Research. (Remote | Part-time)
-- 💻 I'm currently working as ***COVID-19 Medical Image AI Model Research and Development Engineer*** at Arterys. (Volunteer - Remotely)
-- 🔭 I’m currently working on development of machine learning resarch, apply medical image processing techniques to build, maintain, and improve analytics COVID-19 datasets to gain actionable insights. 
-- 🌱 I specialize in ***Neuroscience,Cognitive Neuroscience, Computational Neuroscience, Neurological Disorders, Computatinal Biology, Genomics, Bioinformatics, Cancer Research.*** 😃
-- 💬 Get in touch eda.aicodingwoman@outlook.com
-- 📝 I regularly write articles on https://edaaydinea.home.blog/aicodingwoman/
+- 🌱 I' currently learning ***Neuroscience,Cognitive Neuroscience, Computational Neuroscience, Neurological Disorders, Computatinal Biology, Genomics, Bioinformatics, Cancer Research.*** 😃
+- 👨‍💻 All of my projects are available at [https://edaaydinea.home.blog/projects](https://edaaydinea.home.blog/projects)
+- 📝 I regularly write articles on [https://edaaydinea.home.blog/blog](https://edaaydinea.home.blog/blog)
+- 📫 How to reach me **eda.aicodingwoman@outlook.com**
+- 📄 Know about my experiences [https://edaaydinea.home.blog/official-portfolio/](https://edaaydinea.home.blog/official-portfolio/)
+
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
@@ -27,3 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edaaydinea&show_icons=true&locale=en&layout=compact" alt="edaaydinea" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=edaaydinea&show_icons=true&locale=en" alt="edaaydinea" /></p>
