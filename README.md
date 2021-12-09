@@ -4,7 +4,7 @@
 **edaaydinea/edaaydinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🎓 I graduated with ***Bachelor's degree in Computer Engineering*** from Altınbaş University and ***MicroMaster's degree in Artificial Intelligence*** from Columbia University.
-- 👩‍🎓 I'm currently doing ***MicroMasters in Computer Science (Computational Biology) | Biomedical Engineering (Neuroengineering)*** at Columbia University. (Remotely)
+- 👩‍🎓 I'm currently doing ***MicroMasters in Computer Science (Machine Learning | Computational Biology) | Biomedical Engineering (Neuroengineering)*** at Columbia University. (Remotely)
 - 🧠 I'm currently working as ***Deep Learning Research and Development Intern*** based on researching artificial intelligence models for Multiple Sclerosis at Menzies Institute for Medical Research. (Remote | Part-time)
 - 🌱 I' currently learning ***Neuroscience,Cognitive Neuroscience, Computational Neuroscience, Neurological Disorders, Computatinal Biology, Genomics, Bioinformatics, Cancer Research.*** 😃
 - 👨‍💻 All of my projects are available at [https://edaaydinea.home.blog/projects](https://edaaydinea.home.blog/projects)
