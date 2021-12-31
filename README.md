@@ -31,13 +31,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=edaaydinea&show_icons=true&locale=en" alt="edaaydinea" /></p>
 
-<h1 align="center">Projects</h1>
+<!--<h1 align="center">Projects</h1>
 
 <h2 align="center">Artificial Intelligence - Neuroscience Projects</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=computational-neuroscience)](https://github.com/edaaydinea/computational-neuroscience)
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Multiple-Sclerosis-Lesion-Segmentation-from-Brain-Magnetic-Resonance-Images-via-Fully-Convolutional)](https://github.com/edaaydinea/Multiple-Sclerosis-Lesion-Segmentation-from-Brain-Magnetic-Resonance-Images-via-Fully-Convolutional)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Magnetic-Resonance-Imaging-Comparisons-of-Demented-and-Non-demented-Adults)](https://github.com/edaaydinea/Magnetic-Resonance-Imaging-Comparisons-of-Demented-and-Non-demented-Adults) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Multiple-Sclerosis-Lesion-Segmentation-from-Brain-Magnetic-Resonance-Images-via-Fully-Convolutional)](https://github.com/edaaydinea/Multiple-Sclerosis-Lesion-Segmentation-from-Brain-Magnetic-Resonance-Images-via-Fully-Convolutional)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Magnetic-Resonance-Imaging-Comparisons-of-Demented-and-Non-demented-Adults)](https://github.com/edaaydinea/Magnetic-Resonance-Imaging-Comparisons-of-Demented-and-Non-demented-Adults)
 
 <h2 align="center">Medical Image Processing Projects</h2>
 
