@@ -9,6 +9,7 @@
 - 🌱 I' currently learning ***Neuroscience, Cognitive Neuroscience, Computational Neuroscience, Neurological Disorders, Computatinal Biology, Genomics, Bioinformatics, Cancer Research.*** 😃-->
 - 💻 Passionate about artificial intelligence, computer vision, data science in healthcare
 - 🧠 Passionate about Neuroscience
+- 🖥️🌐 2022 Challenge : [#365DaysofCode](https://edaaydinea.home.blog/365-days-of-code/)
 - 👨‍💻 All of my projects are available at [https://edaaydinea.home.blog/projects](https://edaaydinea.home.blog/projects)
 - 📝 I regularly write articles on [https://edaaydinea.home.blog/blog](https://edaaydinea.home.blog/blog)
 - 📫 How to reach me **eda.aicodingwoman@outlook.com**
