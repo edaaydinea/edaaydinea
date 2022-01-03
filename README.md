@@ -34,6 +34,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=edaaydinea&show_icons=true&locale=en" alt="edaaydinea" /></p>
 
+<h2 align="center">365 Days of Code</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=365-days-of-code)](https://github.com/edaaydinea/365-days-of-code)
+
 <!--<h1 align="center">Projects</h1>
 
 <h2 align="center">Artificial Intelligence - Neuroscience Projects</h2>
