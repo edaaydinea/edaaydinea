@@ -5,7 +5,7 @@
 
 - 👩‍💻 A Self-Taught Woman Engineer In AI for Healthcare
 - 🎓 B.Eng. in Computer Engineering | MicroMaster's in Artificial Intelligence
-- 👩‍🎓 Master Student in Computer Science, Biomedical Enginering
+- 👩‍🎓 Master Student in Computer Science, Biomedical Engineering
   - Joint Consideration in Machine Learning, Computational Biology, Neuroengineering
 - 👩‍💻 Research Student in AI for Neuroscience
 - 💻 Passionate about artificial intelligence, computer vision, data science in healthcare
