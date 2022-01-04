@@ -3,10 +3,10 @@
 <!--
 **edaaydinea/edaaydinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<!--- 🎓 I graduated with ***Bachelor's degree in Computer Engineering*** from Altınbaş University and ***MicroMaster's degree in Artificial Intelligence*** from Columbia University.
-- 👩‍🎓 I am currently pursuing a ***MicroMaster's in Artificial Intelligence (Machine Learning, Computational Biology) and Biomedical Engineering (Neuroengineering)*** at Columbia University. (Remotely)
-- 🧠 I'm currently working as ***Deep Learning Research and Development Intern*** based on researching artificial intelligence models for Multiple Sclerosis at Menzies Institute for Medical Research. (Remote | Part-time)
-- 🌱 I' currently learning ***Neuroscience, Cognitive Neuroscience, Computational Neuroscience, Neurological Disorders, Computatinal Biology, Genomics, Bioinformatics, Cancer Research.*** 😃-->
+- 🎓B.Eng. in Computer Engineering | MicroMaster's in Artificial Intelligence
+- 👩‍🎓Master Student in Computer Science, Biomedical Enginering
+  - Joint Consideration in Machine Learning, Computational Biology, Neuroengineering
+- 👩‍💻 Research Student in AI for Neuroscience
 - 💻 Passionate about artificial intelligence, computer vision, data science in healthcare
 - 🧠 Passionate about Neuroscience
 - 🖥️🌐 2022 Challenge : [#365DaysofCode](https://edaaydinea.home.blog/365-days-of-code/)
@@ -38,21 +38,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=365-days-of-code)](https://github.com/edaaydinea/365-days-of-code)
 
-<!--<h1 align="center">Projects</h1>
-
-<h2 align="center">Artificial Intelligence - Neuroscience Projects</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=computational-neuroscience)](https://github.com/edaaydinea/computational-neuroscience)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Multiple-Sclerosis-Lesion-Segmentation-from-Brain-Magnetic-Resonance-Images-via-Fully-Convolutional)](https://github.com/edaaydinea/Multiple-Sclerosis-Lesion-Segmentation-from-Brain-Magnetic-Resonance-Images-via-Fully-Convolutional)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Magnetic-Resonance-Imaging-Comparisons-of-Demented-and-Non-demented-Adults)](https://github.com/edaaydinea/Magnetic-Resonance-Imaging-Comparisons-of-Demented-and-Non-demented-Adults)
-
-<h2 align="center">Medical Image Processing Projects</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning)](https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning)
-
-<h2 align="center">Data Science Projects</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=personalized-medicine-redefining-cancer-treatment)](https://github.com/edaaydinea/personalized-medicine-redefining-cancer-treatment)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU-)](https://github.com/edaaydinea/Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU-)
 
 
