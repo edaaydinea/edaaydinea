@@ -3,8 +3,9 @@
 <!--
 **edaaydinea/edaaydinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🎓B.Eng. in Computer Engineering | MicroMaster's in Artificial Intelligence
-- 👩‍🎓Master Student in Computer Science, Biomedical Enginering
+- 👩‍💻 A Self-Taught Woman Engineer In AI for Healthcare
+- 🎓 B.Eng. in Computer Engineering | MicroMaster's in Artificial Intelligence
+- 👩‍🎓 Master Student in Computer Science, Biomedical Enginering
   - Joint Consideration in Machine Learning, Computational Biology, Neuroengineering
 - 👩‍💻 Research Student in AI for Neuroscience
 - 💻 Passionate about artificial intelligence, computer vision, data science in healthcare
