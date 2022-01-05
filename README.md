@@ -43,5 +43,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Hackerrank)](https://github.com/edaaydinea/Hackerrank)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=LeetCode)](https://github.com/edaaydinea/LeetCode)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Coderbyte)](https://github.com/edaaydinea/Codebyte)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Coderbyte)](https://github.com/edaaydinea/Coderbyte)
 
