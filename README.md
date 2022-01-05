@@ -39,5 +39,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=365-days-of-code)](https://github.com/edaaydinea/365-days-of-code)
 
+<h2 align="center">Coding Skills</h2>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Hackerrank)](https://github.com/edaaydinea/Hackerrank)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=LeetCode)](https://github.com/edaaydinea/LeetCode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Coderbyte)](https://github.com/edaaydinea/Codebyte)
 
