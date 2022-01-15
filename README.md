@@ -21,11 +21,11 @@
 <h2 align="center">📫 Connect with me:</h2>
 <p align="left">
   <a href="https://twitter.com/edaaydinea" target="blank"> 
-    <img align="center" src="https://github.com/edaaydinea/social-icons/blob/main/twitter.svg" alt="Twitter" height="40" width="40" /></a>
+    <img align="center" src="https://github.com/edaaydinea/social-icons/blob/main/twitter.svg" alt="Twitter" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/edaaydinea" target="blank"> 
-    <img align="center" src="https://github.com/edaaydinea/social-icons/blob/main/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
+    <img align="center" src="https://github.com/edaaydinea/social-icons/blob/main/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
   <a href="mailto:eda.aicodingwoman@@outlook.com" target="blank"> 
-    <img align="center" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" alt="Outlook" height="40" width="40" /></a>
+    <img align="center" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" alt="Outlook" height="30" width="30" /></a>
 </p>
 
 <p>&nbsp;</p>
