@@ -38,7 +38,7 @@
   <a href="https://exercism.org/profiles/edaaydinea" target="_blank"> <img src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="Exercism" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edaaydinea&show_icons=true&locale=en&layout=compact" alt="edaaydinea" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edaaydinea&show_icons=true&locale=en&layout=compact&langs_count=10" alt="edaaydinea" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=edaaydinea&show_icons=true&locale=en" alt="edaaydinea" /></p>
 
