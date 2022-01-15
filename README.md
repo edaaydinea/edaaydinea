@@ -19,7 +19,7 @@
 <p>&nbsp;</p>
 
 <h2 align="center">📫 Connect with me:</h2>
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/edaaydinea" target="blank"> 
     <img align="center" src="https://github.com/edaaydinea/social-icons/blob/main/twitter.svg" alt="Twitter" height="40" width="40" /></a>
   <a href="https://linkedin.com/in/edaaydinea" target="blank"> 
@@ -31,7 +31,7 @@
 <p>&nbsp;</p>
 
 <h2 align="center">🔧 &nbsp; Technologies & Tools</h2>
-<p align="center"> 
+<p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" alt="R" width="40" height="40"/>
   <img src="https://github.com/edaaydinea/social-icons/blob/main/matlab.svg" alt="matlab" width="40" height="40"/>
@@ -48,7 +48,7 @@
 <p>&nbsp;</p>
 
 <h2 align="center">🔧 &nbsp; Data Science - Computer Vision Tools</h2>
-<p align="center"> 
+<p align="left"> 
   <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+numpy-1324451433766768098.png" alt="NumPy" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Matplotlib" width="40" height="40"/>
@@ -64,8 +64,7 @@
 <p>&nbsp;</p>
 
 <h2 align="center">👩‍💻 Coding Skills:</h2>
-
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.hackerrank.com/edaaydinea" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" height="40"/> </a>
   <a href="https://leetcode.com/edaaydinea/" target="_blank"> 
