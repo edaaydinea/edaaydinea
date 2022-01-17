@@ -99,15 +99,58 @@
 
 <h2 align="center">💻🖥️🧠 365 Days of Coding Challenge for 2022 (From Beginner to Advanced)</h2>
 
-[![Readme Card](https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=365-days-of-code)](https://github.com/edaaydinea/365-days-of-code)
-<!--
+<table border="0" style="margin-top:30px; border:0px;" class="mt-4">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/edaaydinea/365-days-of-code" target="_blank">
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=365-days-of-code" /> </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/edaaydinea/patika.dev" target="_blank">
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=patika.dev" /> </a>
+        </td> 
+    </tr>
+</table>
+
+
+
+
 <h2 align="center">Coding Repositories</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=HackerRank)](https://github.com/edaaydinea/HackerRank)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=LeetCode)](https://github.com/edaaydinea/LeetCode)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Coderbyte)](https://github.com/edaaydinea/Coderbyte)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Exercism)](https://github.com/edaaydinea/Exercism)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Hackerearth)](https://github.com/edaaydinea/Hackerearth)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Studytonight)](https://github.com/edaaydinea/Studytonight)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&repo=Codewars)](https://github.com/edaaydinea/Codewars) -->
+<table border="0" style="margin-top:30px; border:0px;" class="mt-4">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/edaaydinea/HackerRank" target="_blank">
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=HackerRank" /> </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/edaaydinea/LeetCode" target="_blank">
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=LeetCode" /> </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/edaaydinea/Coderbyte" target="_blank">
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Coderbyte" /> </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/edaaydinea/Exercism" target="_blank">
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Exercism" /> </a>
+        </td>
+      <td align="center">
+            <a href="https://github.com/edaaydinea/Hackerearth" target="_blank">
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Hackerearth" /> </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/edaaydinea/Studytonight" target="_blank">
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Studytonight" /> </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/edaaydinea/Codewars" target="_blank">
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Codewars" /> </a>
+        </td> 
+    </tr> 
+</table>
 
