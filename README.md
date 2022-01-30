@@ -158,6 +158,10 @@
     </tr>
     <tr>
         <td align="center">
+            <a href="https://github.com/edaaydinea/Codility" target="_blank">
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Codility" /> </a>
+        </td> 
+        <td align="center">
             <a href="https://github.com/edaaydinea/Exercism" target="_blank">
     <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Exercism" /> </a>
         </td>
@@ -165,12 +169,12 @@
             <a href="https://github.com/edaaydinea/Hackerearth" target="_blank">
     <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Hackerearth" /> </a>
         </td>
+    </tr>
+    <tr>  
         <td align="center">
             <a href="https://github.com/edaaydinea/Studytonight" target="_blank">
     <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Studytonight" /> </a>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://github.com/edaaydinea/Codewars" target="_blank">
     <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Codewars" /> </a>
