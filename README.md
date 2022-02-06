@@ -37,6 +37,8 @@
           <img align="center" src="https://github.com/edaaydinea/social-icons/blob/main/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
         <a href="mailto:eda.aicodingwoman@@outlook.com" target="blank"> 
           <img align="center" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" alt="Outlook" height="30" width="30" /></a>
+        <a href="https://edaaydinea.home.blog/blog" target="blank"> 
+          <img align="center" src="https://e7.pngegg.com/pngimages/874/869/png-clipart-wordpress-web-development-content-management-system-blog-logo-wordpress-blue-web-design-thumbnail.png" alt="Wordpress" height="30" width="30" /></a>
        </p>
     </td>
     
