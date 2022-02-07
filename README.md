@@ -15,23 +15,21 @@
 - 👨‍💻 All of my projects are available at [https://edaaydinea.home.blog/projects](https://edaaydinea.home.blog/projects)
 - 📝 I regularly write articles on [https://edaaydinea.home.blog/blog](https://edaaydinea.home.blog/blog)
 
-table {
-    width:100%;
-}
 
 <p>&nbsp;</p>
 
-<table border="0" style="margin-top:30px; border:0px;" class="mt-4">
-<tbody>
+
+<table border="0" style="margin-top:30px; border:0px; width:882" class="mt-4">
+  <tbody>
   <h2 align="center"> 📧 Contact - 💻 Skills </h2>
   
   <tr style="height: 36px;">
-    <td style="width: 50%; text-align: center; height: 36px;"><strong>📫 Connect with me:</strong></td>
-    <td style="width: 50%; text-align: center; height: 36px;"><strong>👩‍💻 Coding Skills:</strong></td>
+    <td style="width: 441; text-align: center; height: 36px;"><strong>📫 Connect with me:</strong></td>
+    <td style="width: 441; text-align: center; height: 36px;"><strong>👩‍💻 Coding Skills:</strong></td>
   </tr>
   
   <tr style="height: 18px;">
-    <td style="width: 50%; height: 18px;">
+    <td style="width:441; height: 18px;">
       <p align="center">
         <a href="https://twitter.com/edaaydinea" target="blank"> 
           <img align="center" src="https://github.com/edaaydinea/social-icons/blob/main/twitter.svg" alt="Twitter" height="30" width="30" /></a>
@@ -44,7 +42,7 @@ table {
        </p>
     </td>
     
-  <td style="width: 50%; height: 18px;">
+  <td style="width: 441; height: 18px;">
       <p align="center"> 
           <a href="https://www.hackerrank.com/edaaydinea" target="_blank">
             <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" height="40"/> </a>
@@ -65,12 +63,12 @@ table {
   </tr>
   
   <tr style="height: 36px;">
-    <td style="width: 50%; text-align: center; height: 36px;"><strong>🔧 &nbsp; Technologies & Tools</strong></td>
-    <td style="width: 50%; text-align: center; height: 36px;"><strong>🔧 &nbsp; Data Science - Computer Vision Tools</strong></td>
+    <td style="width: 441; text-align: center; height: 36px;"><strong>🔧 &nbsp; Technologies & Tools</strong></td>
+    <td style="width: 441; text-align: center; height: 36px;"><strong>🔧 &nbsp; Data Science - Computer Vision Tools</strong></td>
   </tr>
   
   <tr style="height: 18px;">
-    <td style="width: 50%; height: 18px;">
+    <td style="width: 441; height: 18px;">
       <p align="center"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" alt="R" width="40" height="40"/>
@@ -86,7 +84,7 @@ table {
       </p>
   </td>
     
-  <td style="width: 50%; height: 18px;">
+  <td style="width: 441; height: 18px;">
       <p align="center"> 
         <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+numpy-1324451433766768098.png" alt="NumPy" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas" width="40" height="40"/>
@@ -102,7 +100,8 @@ table {
       </td>
   </tr>
 </tbody>
-
+</table>
+  
 <p>&nbsp;</p>
   
 <h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Read.Me Stats</h2>
@@ -113,15 +112,15 @@ table {
 
 <p>&nbsp;</p>
 
-<table border="0" style="margin-top:30px; border:0px;" class="mt-4">
+<table border="0" style="margin-top:30px; border:0px; width: 882;" class="mt-4">
   <hr />
   <h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Read.Me Stats</h2>
   <tbody>  
     <tr>
-        <td align="center">
+        <td style="width: 441;" align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaaydinea&theme=dracula&layout=compact&langs_count=10" />
         </td>
-        <td align="center">
+        <td style="width: 441;" align="center" >
             <img src="https://github-readme-stats.vercel.app/api?username=edaaydinea&count_private=true&show_icons=true&theme=dracula"/>
         </td> 
     </tr>
@@ -134,13 +133,13 @@ table {
 <h2 align="center">💻🖥️🧠 365 Days of Coding Challenge for 2022 (From Beginner to Advanced)</h2>
   <hr />
 
-<table border="0" style="margin-top:30px; border:0px;" class="mt-4">
+<table border="0" style="margin-top:30px; border:0px; width:882" class="mt-4">
     <tr>
-        <td style="width: 50%; height:54px;" align="center">
+        <td style="width: 441; height:54px;" align="center" >
             <a href="https://github.com/edaaydinea/365-days-of-code" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=365-days-of-code" /> </a>
         </td>
-        <td style="width: 50%; height: 54px;" align="center">
+        <td style="width: 441; height: 54px;" align="center">
             <a href="https://github.com/edaaydinea/patika.dev" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=patika.dev" /> </a>
         </td> 
@@ -152,13 +151,13 @@ table {
 
 <h2 align="center">Coding Repositories</h2>
 
-<table border="0" style="margin-top:30px; border:0px;" class="mt-4">
+<table border="0" style="margin-top:30px; border:0px; " class="mt-4">
     <tr>
         <td align="center">
             <a href="https://github.com/edaaydinea/HackerRank" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=HackerRank" /> </a>
         </td>
-        <td align="center">
+        <td  align="center">
             <a href="https://github.com/edaaydinea/LeetCode" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=LeetCode" /> </a>
         </td>
