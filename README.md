@@ -110,14 +110,10 @@
 </p>
 
 <h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;WakaTime Coding Activity</h2>
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&v=2&theme=dracula"/>
+</p>
 
-
-<p>&nbsp;</p>
 
 <table border="0" style="margin-top:30px; border:0px; width: 882;" class="mt-4">
   <hr />
