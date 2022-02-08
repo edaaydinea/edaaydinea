@@ -114,15 +114,6 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&theme=dracula&v=2"/>
 </p>
 
-<!--START_SECTION:waka-->
-```text
-Week: 01 February, 2022 - 07 February, 2022
-
-Python   2 hrs 2 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀   93.25 % 
-Text     8 mins          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.75 % 
-```
-<!--END_SECTION:waka-->
-
 
 <table border="0" style="margin-top:30px; border:0px; width: 882;" class="mt-4">
   <hr />
