@@ -7,7 +7,7 @@
 - 🎓 B.Eng.('19) in Computer Engineering | MicroMaster('21) in Artificial Intelligence
 - 👩‍🎓 MicroMaster Student in Computer Science, Biomedical Engineering
   - Joint Consideration in Machine Learning, Computational Biology, Neuroengineering
-- 👩‍💻 Research Student in AI for Neuroscience
+- 👩‍💻 Graduate Student Researcher in AI for Neuroscience
 - 💻 Passionate about Artificial Intelligence, Computer Vision, Data Science in healthcare
 - 🧠 Passionate about Neuroscience
 - 🖥️🌐 2022 Challenge : [#365DaysofCode](https://edaaydinea.home.blog/365-days-of-code/)
