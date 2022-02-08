@@ -111,9 +111,7 @@
 
 <!--START_SECTION:waka-->
 <h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;WakaTime Coding Activity</h2>
-<p align="center"> 
-    <img src="https://github.com/edaaydinea/blob/main/images/stat.svg" alt="Eda WakaTime Activity"/>
-</p>
+[![edaaydinea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea)](https://github.com/edaaydinea)
 <!--END_SECTION:waka-->
 
 
