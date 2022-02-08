@@ -111,7 +111,7 @@
 
 <h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;WakaTime Coding Activity</h2>
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&v=2&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&theme=dracula"/>
 </p>
 
 <!--START_SECTION:waka-->
