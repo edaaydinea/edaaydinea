@@ -104,10 +104,17 @@
   
 <p>&nbsp;</p>
   
-<h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Read.Me Stats</h2>
+<h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Profile Trophy</h2>
 <p align="center"> 
     <img src="https://github-profile-trophy.vercel.app/?username=edaaydinea&title=MultiLanguage,Stars,Commit,Repositories,Commits,Followers,PullRequest&theme=dracula"/>
 </p>
+
+<!--START_SECTION:waka-->
+<h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;WakaTime Coding Activity</h2>
+<p align="center"> 
+    <img src="https://github.com/edaaydinea/blob/main/images/stat.svg" alt="Eda WakaTime Activity"/>
+</p>
+<!--END_SECTION:waka-->
 
 
 <p>&nbsp;</p>
