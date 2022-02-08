@@ -114,6 +114,9 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&v=2&theme=dracula"/>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <table border="0" style="margin-top:30px; border:0px; width: 882;" class="mt-4">
   <hr />
