@@ -110,18 +110,6 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&theme=dracula&custom_title=📊Weekly%20development%20breakdown"/>
 </p>
 
-<!--START_SECTION:waka-->
-```text
-Week: 02 February, 2022 - 08 February, 2022
-
-Python           6 hrs 39 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   73.15 % 
-Java             1 hr 10 mins    ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.94 % 
-Markdown         1 hr 2 mins     ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.42 % 
-Text             11 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.18 % 
-GitIgnore file   1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.29 % 
-```
-<!--END_SECTION:waka-->
-
 <h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Profile Trophy</h2>
 <p align="center"> 
     <img src="https://github-profile-trophy.vercel.app/?username=edaaydinea&title=MultiLanguage,Stars,Commit,Repositories,Commits,Followers,PullRequest&theme=dracula"/>
