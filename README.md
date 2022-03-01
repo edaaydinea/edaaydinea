@@ -107,7 +107,7 @@
  
 <h2 align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/wakatime-logo-png-transparent.png" width="32" height="32" />&nbsp;WakaTime Coding Activity</h2>
 <p align="center" > 
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&theme=dracula&layout=compact&custom_title=📊Weekly%20development%20breakdown&min_seconds=600"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&theme=dracula&range=last_7_days&layout=compact&custom_title=📊Weekly%20development%20breakdown"/>
 </p>
 
 <h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Profile Trophy</h2>
