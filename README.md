@@ -6,10 +6,10 @@
 - 👩‍💻 A Self-Taught Woman Engineer In AI for Healthcare
 - 🎓 B.Eng.('19) in Computer Engineering | MicroMaster('21) in Artificial Intelligence
 - 👩‍🎓 MicroMaster Student in Computer Science, Biomedical Engineering
-  - Joint Consideration in Machine Learning, Computational Biology, Neuroengineering
-- 👩‍💻 Graduate Student Researcher in AI for Neuroscience
+  - Joint Consideration in Machine Learning, Computational Biology, Neural Engineering
+- 👩‍💻 Graduate Research Student in AI for Neuroscience (Multiple Sclerosis, Dementia)
 - 💻 Passionate about Artificial Intelligence, Computer Vision, Data Science in healthcare
-- 🧠 Passionate about Neuroscience
+- 🧠 Passionate about Neuroscience, Neural Engineering
 - 🖥️🌐 2022 Challenge : [#365DaysofCode](https://edaaydinea.home.blog/365-days-of-code/)
 - 📄 Know about my experiences [https://edaaydinea.home.blog/official-portfolio/](https://edaaydinea.home.blog/official-portfolio/)
 - 👨‍💻 All of my projects are available at [https://edaaydinea.home.blog/projects](https://edaaydinea.home.blog/projects)
