@@ -5,9 +5,9 @@
 
 - 👩‍💻 A Self-Taught Woman Engineer In AI for Healthcare
 - 🎓 B.Eng.('19) in Computer Engineering | MicroMaster('21) in Artificial Intelligence
-- 👩‍🎓 MicroMaster Student in Computer Science, Biomedical Engineering
+- 👩‍🎓 Master Student in Computer Science, Biomedical Engineering
   - Joint Consideration in Machine Learning, Computational Biology, Neural Engineering
-- 👩‍💻 Graduate Research Student in AI for Neuroscience (Multiple Sclerosis, Dementia)
+- 👩‍💻 Graduate Research Student in AI for Neuroscience (Multiple Sclerosis, Dementia, Traumatic Brain Injury)
 - 💻 Passionate about Artificial Intelligence, Computer Vision, Data Science in healthcare
 - 🧠 Passionate about Neuroscience, Neural Engineering
 - 🖥️🌐 2022 Challenge : [#365DaysofCode](https://edaaydinea.home.blog/365-days-of-code/)
@@ -73,6 +73,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" alt="R" width="40" height="40"/>
         <img src="https://github.com/edaaydinea/social-icons/blob/main/matlab.svg" alt="matlab" width="40" height="40"/>
+        <img src="https://avatars.githubusercontent.com/u/743164?s=280&v=4" alt="Julia" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
