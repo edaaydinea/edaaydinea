@@ -8,7 +8,7 @@
 - 👩‍🎓 Master Student in Computer Science, Biomedical Engineering
   - Joint Consideration in Machine Learning, Computational Biology, Neural Engineering
 - 👩‍💻 Graduate Research Student in AI for Neuroscience (Multiple Sclerosis, Dementia, Traumatic Brain Injury)
-- 💻 AI Volunter Developer at SDG AI Lab
+- 💻 Volunteer AI Developer | Data Scientist at SDG AI Lab
 - 💻 Passionate about Artificial Intelligence, Computer Vision, Data Science in healthcare
 - 🧠 Passionate about Neuroscience, Neural Engineering
 - 🖥️🌐 2022 Challenge : [#365DaysofCode](https://edaaydinea.home.blog/365-days-of-code/)
