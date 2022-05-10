@@ -146,8 +146,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=365-days-of-code" /> </a>
         </td>
         <td style="width: 441; height: 54px;" align="center">
-            <a href="https://github.com/edaaydinea/patika.dev" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=patika.dev" /> </a>
+            <a href="https://github.com/edaaydinea/AI-Projects-for-Healthcare" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=AI-Projects-for-Healthcare" /> </a>
         </td> 
     </tr>
 </table>
