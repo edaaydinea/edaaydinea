@@ -11,6 +11,7 @@
 - 💻 Volunteer AI Developer | Data Scientist at SDG AI Lab
 - 💻 Passionate about Artificial Intelligence, Computer Vision, Data Science in healthcare
 - 🧠 Passionate about Neuroscience, Neural Engineering
+- 🛰️🚀Passionate about Aeronautics, Aerospace Engineering
 - 🖥️🌐 2022 Challenge : [#365DaysofCode](https://edaaydinea.home.blog/365-days-of-code/)
 - 📄 Know about my experiences [https://edaaydinea.home.blog/official-portfolio/](https://edaaydinea.home.blog/official-portfolio/)
 - 👨‍💻 All of my projects are available at [https://edaaydinea.home.blog/projects](https://edaaydinea.home.blog/projects)
