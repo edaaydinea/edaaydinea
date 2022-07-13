@@ -137,7 +137,7 @@
 
 <p>&nbsp;</p>
 
-<h2 align="center">💻🖥️🧠 365 Days of Coding Challenge for 2022 (From Beginner to Advanced)</h2>
+<h2 align="center">💻🖥️🧠🚀 365 Days of Coding Challenge for 2022 (From Beginner to Advanced)</h2>
   <hr />
 
 <table border="0" style="margin-top:30px; border:0px; width:882" class="mt-4">
@@ -149,6 +149,16 @@
         <td style="width: 441; height: 54px;" align="center">
             <a href="https://github.com/edaaydinea/AI-Projects-for-Healthcare" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=AI-Projects-for-Healthcare" /> </a>
+        </td> 
+    </tr>
+    <tr>
+        <td style="width: 441; height:54px;" align="center" >
+            <a href="https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Miuul-Machine-Learning-Summer-Bootcamp" /> </a>
+        </td>
+        <td style="width: 441; height: 54px;" align="center">
+            <a href="https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=UpSchool-Google-Developers-Machine-Learning-Program" /> </a>
         </td> 
     </tr>
 </table>
