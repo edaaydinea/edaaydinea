@@ -3,11 +3,12 @@
 <!--
 **edaaydinea/edaaydinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 👩‍💻 A Self-Taught Woman Engineer In AI for Healthcare
+- 👩🏻‍💻💻 A Self-Taught Woman Engineer In AI for Healthcare
 - 🎓 B.Eng.('19) in Computer Engineering | MicroMaster('21) in Artificial Intelligence
-- 👩‍🎓 Master Student in Computer Science, Biomedical Engineering
+- 👩🏻‍🎓 Master Student in Computer Science, Biomedical Engineering
   - Joint Consideration in Machine Learning, Computational Biology, Neural Engineering
-- 👩‍💻 Graduate Research Student in AI for Neuroscience (Multiple Sclerosis, Dementia, Traumatic Brain Injury)
+- 👩🏻‍💻 Participates in Machine Learning, Deep Learning, Neuroscience prepared by these companies (Up School - Miuul - McKinsey & Company - g.tec)
+- 👩🏻‍🔬💻 Graduate Research Student in AI for Neuroscience (Multiple Sclerosis, Dementia, Traumatic Brain Injury)
 - 💻 Volunteer AI Developer | Data Scientist at SDG AI Lab
 - 💻 Passionate about Artificial Intelligence, Computer Vision, Data Science in healthcare
 - 🧠 Passionate about Neuroscience, Neural Engineering
