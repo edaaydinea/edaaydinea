@@ -7,7 +7,7 @@
 - 🎓 B.Eng.('19) in Computer Engineering | MicroMaster('21) in Artificial Intelligence
 - 👩🏻‍🎓 Master Student in Computer Science, Biomedical Engineering
   - Joint Consideration in Machine Learning, Computational Biology, Neural Engineering
-- 👩🏻‍💻 Active Learning - Participates in Machine Learning, Deep Learning, Neuroscience programs prepared by these companies (Up School - Miuul - McKinsey & Company - g.tec)
+- 👩🏻‍💻 Participates in Machine Learning, Deep Learning, Neuroscience programs prepared by these companies (Up School - Miuul - McKinsey & Company - g.tec)
 - 👩🏻‍🔬💻 Graduate Research Student in AI for Neuroscience (Multiple Sclerosis, Dementia, Traumatic Brain Injury)
 - 💻 Volunteer AI Developer | Data Scientist at SDG AI Lab
 - 💻 Passionate about Artificial Intelligence, Computer Vision, Data Science in healthcare
