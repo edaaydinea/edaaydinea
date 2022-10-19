@@ -111,12 +111,12 @@
  
 <h2 align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/wakatime-logo-png-transparent.png" width="32" height="32" />&nbsp;WakaTime Coding Activity</h2>
 <p align="center" > 
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&theme=dracula&range=last_7_days&layout=compact&custom_title=📊Weekly%20development%20breakdown"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&theme=darcula&range=last_7_days&layout=compact&custom_title=📊Weekly%20development%20breakdown"/>
 </p>
 
 <h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Profile Trophy</h2>
 <p align="center"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=edaaydinea&title=MultiLanguage,Stars,Commit,Repositories,Commits,Followers,PullRequest&theme=dracula"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=edaaydinea&title=MultiLanguage,Stars,Commit,Repositories,Commits,Followers,PullRequest&theme=darcula"/>
 </p>
 
 
@@ -126,10 +126,10 @@
   <tbody>  
     <tr>
         <td style="width: 441;" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaaydinea&theme=dracula&layout=compact&langs_count=10" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaaydinea&theme=darcula&layout=compact&langs_count=10" />
         </td>
         <td style="width: 441;" align="center" >
-            <img src="https://github-readme-stats.vercel.app/api?username=edaaydinea&count_private=true&show_icons=true&theme=dracula"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=edaaydinea&count_private=true&show_icons=true&theme=darcula"/>
         </td> 
     </tr>
   </tbody>
@@ -145,21 +145,21 @@
     <tr>
         <td style="width: 441; height:54px;" align="center" >
             <a href="https://github.com/edaaydinea/365-days-of-code" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=365-days-of-code" /> </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=365-days-of-code" /> </a>
         </td>
         <td style="width: 441; height: 54px;" align="center">
             <a href="https://github.com/edaaydinea/AI-Projects-for-Healthcare" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=AI-Projects-for-Healthcare" /> </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=AI-Projects-for-Healthcare" /> </a>
         </td> 
     </tr>
     <tr>
         <td style="width: 441; height:54px;" align="center" >
             <a href="https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Miuul-Machine-Learning-Summer-Bootcamp" /> </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=Miuul-Machine-Learning-Summer-Bootcamp" /> </a>
         </td>
         <td style="width: 441; height: 54px;" align="center">
             <a href="https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=UpSchool-Google-Developers-Machine-Learning-Program" /> </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=UpSchool-Google-Developers-Machine-Learning-Program" /> </a>
         </td> 
     </tr>
 </table>
@@ -173,39 +173,39 @@
     <tr>
         <td align="center">
             <a href="https://github.com/edaaydinea/HackerRank" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=HackerRank" /> </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=HackerRank" /> </a>
         </td>
         <td  align="center">
             <a href="https://github.com/edaaydinea/LeetCode" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=LeetCode" /> </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=LeetCode" /> </a>
         </td>
         <td align="center">
             <a href="https://github.com/edaaydinea/Coderbyte" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Coderbyte" /> </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=Coderbyte" /> </a>
         </td>
     </tr>
     <tr>
         <td align="center">
             <a href="https://github.com/edaaydinea/Codility" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Codility" /> </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=Codility" /> </a>
         </td> 
         <td align="center">
             <a href="https://github.com/edaaydinea/Exercism" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Exercism" /> </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=Exercism" /> </a>
         </td>
       <td align="center">
             <a href="https://github.com/edaaydinea/Hackerearth" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Hackerearth" /> </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=Hackerearth" /> </a>
         </td>
     </tr>
     <tr>  
         <td align="center">
             <a href="https://github.com/edaaydinea/Studytonight" target="_blank">
-    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Studytonight" /> </a>
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=Studytonight" /> </a>
         </td>
         <td align="center">
             <a href="https://github.com/edaaydinea/Codewars" target="_blank">
-    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Codewars" /> </a>
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=Codewars" /> </a>
         </td> 
     </tr> 
 </table>
