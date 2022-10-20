@@ -3,16 +3,17 @@
 <!--
 **edaaydinea/edaaydinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 👩🏻‍💻💻 A Self-Taught Woman Engineer In AI for Healthcare
+- 👩🏻‍💻💻 A Self-Taught Woman Engineer In AI for Healthcare, Aerospace
 - 🎓 B.Eng.('19) in Computer Engineering | MicroMaster('21) in Artificial Intelligence
 - 👩🏻‍🎓 Master Student in Computer Science, Biomedical Engineering
   - Joint Consideration in Machine Learning, Computational Biology, Neural Engineering
 - 👩🏻‍💻 Participates in Machine Learning, Deep Learning, Neuroscience programs prepared by these companies (Up School - Miuul - g.tec)
 - 👩🏻‍🔬💻 Graduate Research Student in AI for Neuroscience (Multiple Sclerosis, Dementia, Traumatic Brain Injury)
 - 💻 Volunteer AI Developer | Data Scientist at SDG AI Lab
-- 💻 Passionate about Artificial Intelligence, Computer Vision, Data Science in healthcare
-- 🧠 Passionate about Neuroscience, Neural Engineering
-- 🛰️🚀Passionate about Aeronautics, Aerospace Engineering
+- Passionate about 
+  - 💻 Artificial Intelligence, Computer Vision, Data Science in healthcare
+  - 🧠 Neuroscience, Neural Engineering
+  - 🛰️🚀 Aeronautics, Aerospace Engineering
 - 🖥️🌐 2022 Challenge : [#365DaysofCode](https://edaaydinea.home.blog/365-days-of-code/)
 - 📄 Know about my experiences [https://edaaydinea.home.blog/official-portfolio/](https://edaaydinea.home.blog/official-portfolio/)
 - 👨‍💻 All of my projects are available at [https://edaaydinea.home.blog/projects](https://edaaydinea.home.blog/projects)
