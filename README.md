@@ -155,6 +155,16 @@
     </tr>
     <tr>
         <td style="width: 441; height:54px;" align="center" >
+            <a href="https://github.com/edaaydinea/AI-Projects-for-Neuroscience" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=AI-Projects-for-Neuroscience" /> </a>
+        </td>
+        <td style="width: 441; height: 54px;" align="center">
+            <a href="https://github.com/edaaydinea/AI-Projects-for-Aerospace" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=AI-Projects-for-Aerospace" /> </a>
+        </td> 
+    </tr>
+    <tr>
+        <td style="width: 441; height:54px;" align="center" >
             <a href="https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=Miuul-Machine-Learning-Summer-Bootcamp" /> </a>
         </td>
