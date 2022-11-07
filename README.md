@@ -142,28 +142,12 @@
 <h2 align="center">💻🖥️🧠🚀 365 Days of Coding Challenge for 2022 (From Beginner to Advanced)</h2>
   <hr />
 
-<table border="0" style="margin-top:30px; border:0px; width:882" class="mt-4">
+<table border="0" style="margin-top:30px; border:0px; " class="mt-4">
     <tr>
         <td style="width: 441; height:54px;" align="center" >
             <a href="https://github.com/edaaydinea/365-days-of-code" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=365-days-of-code" /> </a>
         </td>
-        <td style="width: 441; height: 54px;" align="center">
-            <a href="https://github.com/edaaydinea/AI-Projects-for-Healthcare" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=AI-Projects-for-Healthcare" /> </a>
-        </td> 
-    </tr>
-    <tr>
-        <td style="width: 441; height:54px;" align="center" >
-            <a href="https://github.com/edaaydinea/AI-Projects-for-Neuroscience" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=AI-Projects-for-Neuroscience" /> </a>
-        </td>
-        <td style="width: 441; height: 54px;" align="center">
-            <a href="https://github.com/edaaydinea/AI-Projects-for-Aerospace" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=AI-Projects-for-Aerospace" /> </a>
-        </td> 
-    </tr>
-    <tr>
         <td style="width: 441; height:54px;" align="center" >
             <a href="https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=Miuul-Machine-Learning-Summer-Bootcamp" /> </a>
@@ -171,7 +155,21 @@
         <td style="width: 441; height: 54px;" align="center">
             <a href="https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=UpSchool-Google-Developers-Machine-Learning-Program" /> </a>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 441; height: 54px;" align="center">
+            <a href="https://github.com/edaaydinea/AI-Projects-for-Healthcare" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=AI-Projects-for-Healthcare" /> </a>
         </td> 
+        <td style="width: 441; height:54px;" align="center" >
+            <a href="https://github.com/edaaydinea/AI-Projects-for-Neuroscience" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=AI-Projects-for-Neuroscience" /> </a>
+        </td>
+        <td style="width: 441; height: 54px;" align="center">
+            <a href="https://github.com/edaaydinea/AI-Projects-for-Aerospace" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=darcula&repo=AI-Projects-for-Aerospace" /> </a>
+        </td>
     </tr>
 </table>
 
