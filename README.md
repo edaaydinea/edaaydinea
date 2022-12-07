@@ -38,7 +38,7 @@ I'm a Healthcare Data Scientist and Deep Learning Engineer.
 - [Prediction of the Different Progressive Levels of Alzheimer’s Disease with MRI data](https://github.com/edaaydinea/OP2-Prediction-of-the-Different-Progressive-Levels-of-Alzheimer-s-Disease-with-MRI-data) - Up School Optional Research Project
 - [Personalized Medicine: Redefining Cancer Treatment](https://github.com/edaaydinea/personalized-medicine-redefining-cancer-treatment) - Healthcare - Artificial Intelligence Program Final Project
 - [Estimating the Probability of Confirmed COVID-19 Cases Taken into the Intensive Care Unit (ICU)](https://github.com/edaaydinea/Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU-) - Data Science for the Public Good Program Capstone Project
--[Pneumonia Detection on Chest X-ray Images with Deep Learning (Keras)](https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning) - Data Science for the Public Good Program Capstone Project  
+- [Pneumonia Detection on Chest X-ray Images with Deep Learning (Keras)](https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning) - Data Science for the Public Good Program Capstone Project  
   
 
 
