@@ -5,12 +5,12 @@ I'm a self-taught woman engineer for artificial intelligence in healthcare (espe
 I'm a Healthcare Data Scientist and Deep Learning Engineer.  
   
 
-### 🎓My Learning - Experience Journey  
-- Bachelor of Engineering in Computer Engineering ('19)
-- [Micro Master in Artificial Intelligence](https://www.cvn.columbia.edu/content/micromasters-program-artificial-intelligence) ('21)
-- [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
-- Micro Master in Machine Learning, Neural Engineering ('23)
+### 🎓My Learning - Experience Journey 
 - [Data Science Graduate Certificate](https://www.coursera.org/certificates/data-science-boulder#program) ('23)
+- Micro Master in Machine Learning, Neural Engineering ('23)
+- [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
+- [Micro Master in Artificial Intelligence](https://www.cvn.columbia.edu/content/micromasters-program-artificial-intelligence) ('21)
+- Bachelor of Engineering in Computer Engineering ('19)
 
 ----
 
