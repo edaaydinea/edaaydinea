@@ -8,8 +8,8 @@ I'm a Healthcare Data Scientist and Deep Learning Engineer.
 ### 🎓My Learning - Experience Journey 
 - [Data Science Graduate Certificate](https://www.coursera.org/certificates/data-science-boulder#program) ('23)
 - Micro Master in Machine Learning, Neural Engineering ('23)
-- [Neurotechnology Spring School 2022, Neurobiology and Neurosciences](https://www.gtec.at/spring-school-2022/) ('22)
 - [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
+- [Neurotechnology Spring School 2022, Neurobiology and Neurosciences](https://www.gtec.at/spring-school-2022/) ('22)
 - [Micro Master in Artificial Intelligence](https://www.cvn.columbia.edu/content/micromasters-program-artificial-intelligence) ('21)
 - Bachelor of Engineering in Computer Engineering ('19)
 
