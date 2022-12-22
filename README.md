@@ -27,8 +27,9 @@ I'm a Healthcare Data Scientist and Deep Learning Engineer.
 
 
 ### 👷 Check out what I'm currently working on  
-- [Magnetic Resonance Imaging Comparisons of Demented and Non-demented Adults](https://github.com/edaaydinea/Magnetic-Resonance-Imaging-Comparisons-of-Demented-and-Non-demented-Adults) - Graduate Research Project 
-- [Multiple Sclerosis Lesion Segmentation from Brain MRI Images via Fully CNN](https://github.com/edaaydinea/Multiple-Sclerosis-Lesion-Segmentation-from-Brain-Magnetic-Resonance-Images-via-Fully-Convolutional) - Graduate Research Project 
+- [Multiple Sclerosis Lesion Segmentation from Brain MRI Images by using the Deep Neural Networks](https://github.com/edaaydinea/Multiple-Sclerosis-Lesion-Segmentation-from-Brain-Magnetic-Resonance-Images-via-Fully-Convolutional) - Graduate Research Project 
+- [Detection of ALS (Amyotrophic Lateral Sclerosis)]() - Graduate Research Project
+- [Detection of Dementia in the early stage by comparing Brain MRI images of Demented and Non-demented Adults](https://github.com/edaaydinea/Magnetic-Resonance-Imaging-Comparisons-of-Demented-and-Non-demented-Adults) - Graduate Research Project 
 - [Low-Grade Glioma Segmentation](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation) - Up School Capstone Research Project 
 - [BI-RADS Category and Breast Composition Estimation in Computer Vision Screening Mammograms]() - TeknoFest Competition  
   
