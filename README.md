@@ -64,7 +64,7 @@ I'm a Healthcare Data Scientist and Deep Learning Engineer.
 
 
 ### 🥇Challenges  
-- [365 Days of Coding- 2022](https://edaaydinea.home.blog/365-days-of-code/)
+- [365 Days of Coding- 2022](https://edaaydinea.home.blog/365-days-of-coding/)
   - [AI Project for Healthcare](https://github.com/edaaydinea/AI-Projects-for-Healthcarev)
   - [HackerRank](https://github.com/edaaydinea/HackerRank)
   - [Up School - Google Machine Learning Program](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program)
