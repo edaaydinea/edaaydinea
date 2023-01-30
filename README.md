@@ -30,12 +30,12 @@ I'm a Healthcare Data Scientist and Deep Learning Engineer.
 - [Multiple Sclerosis Lesion Segmentation from Brain MRI Images by using the Deep Neural Networks](https://github.com/edaaydinea/Multiple-Sclerosis-Lesion-Segmentation-from-Brain-Magnetic-Resonance-Images-via-Fully-Convolutional) - Graduate Research Project 
 - [Detection of ALS (Amyotrophic Lateral Sclerosis)]() - Graduate Research Project
 - [Detection of Dementia in the early stage by comparing Brain MRI images of Demented and Non-demented Adults](https://github.com/edaaydinea/Magnetic-Resonance-Imaging-Comparisons-of-Demented-and-Non-demented-Adults) - Graduate Research Project 
-- [Low-Grade Glioma Segmentation](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation) - Up School Capstone Research Project 
   
 
 
 
-### 🌱 My latest projects  
+### 🌱 My latest projects 
+- [Low-Grade Glioma Segmentation](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation) - Up School Capstone Research Project 
 - [Prediction of the Different Progressive Levels of Alzheimer’s Disease with MRI data](https://github.com/edaaydinea/OP2-Prediction-of-the-Different-Progressive-Levels-of-Alzheimer-s-Disease-with-MRI-data) - Up School Optional Research Project
 - [Personalized Medicine: Redefining Cancer Treatment](https://github.com/edaaydinea/personalized-medicine-redefining-cancer-treatment) - Healthcare - Artificial Intelligence Program Final Project
 - [Estimating the Probability of Confirmed COVID-19 Cases Taken into the Intensive Care Unit (ICU)](https://github.com/edaaydinea/Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU-) - Data Science for the Public Good Program Capstone Project
