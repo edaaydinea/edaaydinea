@@ -70,6 +70,7 @@ I'm a Healthcare Data Scientist and Deep Learning Engineer.
     - [Up School - Google Machine Learning Program](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program)
     - [Miuul Machine Learning Summer Bootcamp](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp)
   - [365 Days of Coding - 2023](https://edaaydinea.home.blog/365-days-of-coding-2023/)
+    - [Low Grade Glioma Segmentation](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation)
   
 
 <br/>  
