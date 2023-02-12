@@ -54,6 +54,7 @@ I'm a Healthcare Data Scientist and Deep Learning Engineer.
 
 
 ### 💻 My Latest Blogs  
+- [Deep Learning Architectures for Medical Image Segmentation](https://edaaydinea.home.blog/2023/02/03/deep-learning-architectures-for-medical-image-segmentation/)
 - [Beyni Anlamak için Neden Matematiğe İhtiyacımız var?](https://edaaydinea.home.blog/2021/09/05/beyni-anlamak-icin-neden-matematige-ihtiyacimiz-var/)
 - [Niçin Tıp Alanında Yapay Zeka'ya İhtiyaç Var?](https://edaaydinea.home.blog/2021/09/01/nicin-tip-alaninda-yapay-zekaya-ihtiyac-var/)
 - [Data Science Life Cycle](https://edaaydinea.home.blog/2021/09/01/data-science-life-cycle/)
