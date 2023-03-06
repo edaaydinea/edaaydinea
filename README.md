@@ -63,6 +63,37 @@ I'm a Healthcare Data Scientist and Deep Learning Engineer.
 - [STOpFrac Projesi](https://edaaydinea.home.blog/2021/08/18/stopfrac-projesi/)  
 
 
+### 🥇Competitions
+
+<table style="border-collapse: collapse; width: 100%; height: 82px;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 22.917%; text-align: center;">Month/Year</td>
+<td style="width: 32.6942%; height: 18px; text-align: center;">Competition Name</td>
+<td style="width: 113.589%; height: 18px; text-align: center;">URL</td>
+<td style="width: 50.3314%; text-align: center; height: 18px;">Score</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 22.917%; text-align: center;">February 2023</td>
+<td style="width: 32.6942%; text-align: center; height: 18px;">ML - Olympiad - Breast Cancer Diagnosis</td>
+<td style="width: 113.589%; text-align: center; height: 18px;"><a href="https://www.kaggle.com/code/edaaydinea/ml-olympiad-breast-cancer-diagnosis">ML Olympiad-Breast Cancer Diagnosis | Kaggle</a></td>
+<td style="width: 50.3314%; text-align: center; height: 18px;">8/64</td>
+</tr>
+<tr>
+<td style="width: 22.917%; text-align: center;">February 2023</td>
+<td style="width: 32.6942%; text-align: center;">RSNA Screening Mammography Breast Cancer Detection</td>
+<td style="width: 113.589%; text-align: center;"><a href="https://www.kaggle.com/code/edaaydinea/rsna-breast-cancer-detection">RSNA Breast Cancer Detection | Kaggle</a></td>
+<td style="width: 50.3314%; text-align: center;">1407/1687</td>
+</tr>
+<tr>
+<td style="width: 22.917%; text-align: center;">February 2023</td>
+<td style="width: 32.6942%; text-align: center;">House Prices - Advanced Regression Techniques</td>
+<td style="width: 113.589%; text-align: center;"><a href="https://www.kaggle.com/code/edaaydinea/house-prices-prediction">House Prices Prediction | Kaggle</a></td>
+<td style="width: 50.3314%; text-align: center;">1035/3996</td>
+</tr>
+</tbody>
+</table>
+
 ### 🥇Challenges  
 - [365 Days of Coding- General Summary](https://edaaydinea.home.blog/365-days-of-coding/)
   - [365 Days of Coding - 2022](https://edaaydinea.home.blog/365-days-of-coding-2022/)
