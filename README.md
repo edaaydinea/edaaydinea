@@ -103,6 +103,7 @@ I'm a Healthcare Data Scientist and Deep Learning Engineer.
     - [Miuul Machine Learning Summer Bootcamp](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp)
   - [365 Days of Coding - 2023](https://edaaydinea.home.blog/365-days-of-coding-2023/)
     - [Low Grade Glioma Segmentation](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation)
+    - [Guided Projects](https://github.com/edaaydinea/Guided-Projects)
   
 
 <br/>  
