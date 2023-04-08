@@ -15,6 +15,7 @@ I'm a Healthcare Data Scientist and Deep Learning Engineer.
 
 ----
 
+- Deep Learning Engineer in Providing Artificial Intelligence Software for Medical Imaging (2023 - Present)
 - Graduate Research Student in Computational Neuroscience and Neurodegenerative diseases (2023 - Present)
 - Graduate Research Student in AI for Neuroscience (Multiple Sclerosis, Dementia, Traumatic Brain Injury) (2021 - Present)
 - Summer Research Student in ML and Neuroscience (2021)
