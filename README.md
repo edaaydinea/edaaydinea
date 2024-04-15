@@ -6,8 +6,8 @@ I'm a Healthcare Data Scientist and Deep Learning Engineer.
   
 
 ### 🎓My Learning - Experience Journey 
+- [MSc. in Data Science](https://www.colorado.edu/program/data-science/coursera-overview) ('26)
 - [Google Associate Cloud Engineer Certificate Programme](https://www.upschool.io/google-cloud-data-engineer-programme) ('24)
-- [MSc. in Data Science](https://www.colorado.edu/program/data-science/coursera-overview) ('25)
 - Micro Master in Machine Learning, Neural Engineering ('24)
 - [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
 - [Neurotechnology Spring School 2022, Neurobiology and Neurosciences](https://www.gtec.at/spring-school-2022/) ('22)
