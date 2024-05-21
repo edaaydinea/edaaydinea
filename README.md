@@ -7,6 +7,7 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 ### 🎓My Learning - Experience Journey 
 - [MSc. in Data Science](https://www.colorado.edu/program/data-science/coursera-overview) ('26)
+- [Micro Bachelor in Neuroscience](https://www.edx.org/bachelors/microbachelors/harvardx-introduction-to-neuroscience) ('24)
 - [Google Associate Cloud Engineer Certificate Programme](https://www.upschool.io/google-cloud-data-engineer-programme) ('24)
 - Micro Master in Machine Learning, Neural Engineering ('24)
 - [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
@@ -16,7 +17,6 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 ----
 
-- Clinical Data Scientist (2024 - )
 - Deep Learning Engineer in Providing Artificial Intelligence Software for Medical Imaging (2023 - 2024)
 - Graduate Research Student in Computational Neuroscience and Neurodegenerative diseases (2023 - Present)
 - Graduate Research Student in AI for Neuroscience (Multiple Sclerosis, Dementia, Traumatic Brain Injury) (2021 - Present)
@@ -197,12 +197,10 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 
 ## Connect with me  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/edaaydinea)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edaaydinea/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/edaaydinea)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://edaaydinea.home.blog/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eda.aicodingwoman@@outlook.com)
-[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/124412656-eda-aydin)  
   
 
 <br/>  
