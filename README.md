@@ -17,9 +17,12 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 ----
 
+- Clinical Research Data Scientist in Neurogenomics (2024 - Present)
+- Graduate Research Student in Computational Neuroscience and Neurodegenerative diseases (2023 - 2024)
 - Deep Learning Engineer in Providing Artificial Intelligence Software for Medical Imaging (2023 - 2024)
-- Graduate Research Student in Computational Neuroscience and Neurodegenerative diseases (2023 - Present)
-- Graduate Research Student in AI for Neuroscience (Multiple Sclerosis, Dementia, Traumatic Brain Injury) (2021 - Present)
+- Graduate Research Student in Traumatic Brain Injury (2022)
+- Graduate Research Student in Dementia (2022)
+- Graduate Research Student in Multiple Sclerosis (2021)
 - Summer Research Student in ML and Neuroscience (2021)
 - Research Student in COVID-19 Medical Image AI Model Research and Development (2020)
 - Research Student in Data Science for Development (2020)
