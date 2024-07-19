@@ -17,7 +17,7 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 ----
 
-- Gradaute Clinical Research Student - Clinical Research Data Scientist Candidate (2024 - Present)
+- Graduate Student Clinical Researcher - Clinical Research Data Scientist Candidate (2024 - Present)
 - Graduate Research Student in Computational Neuroscience and Neurodegenerative diseases (2023 - 2024)
 - Deep Learning Engineer in Providing Artificial Intelligence Software for Medical Imaging (2023 - 2024)
 - Graduate Research Student in Traumatic Brain Injury (2022)
