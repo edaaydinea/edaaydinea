@@ -12,7 +12,7 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 - Micro Master in Machine Learning, Neural Engineering ('24) (Graduated with honors)
 - [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
 - [Neurotechnology Spring School 2022, Neurobiology and Neurosciences](https://www.gtec.at/spring-school-2022/) ('22)
-- [Micro Master in Artificial Intelligence](https://www.cvn.columbia.edu/content/micromasters-program-artificial-intelligence) ('21)
+- Micro Master in Artificial Intelligence ('21)
 - Bachelor of Engineering in Computer Engineering ('19)
 
 ----
