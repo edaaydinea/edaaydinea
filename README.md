@@ -80,21 +80,9 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 </tr>
 <tr style="height: 18px;">
 <td style="width: 22.917%; text-align: center;">February 2023</td>
-<td style="width: 32.6942%; text-align: center; height: 18px;">ML - Olympiad - Breast Cancer Diagnosis</td>
+<td style="width: 32.6942%; text-align: center; height: 18px;">ML Olympiad 2023 - Breast Cancer Diagnosis</td>
 <td style="width: 113.589%; text-align: center; height: 18px;"><a href="https://www.kaggle.com/code/edaaydinea/ml-olympiad-breast-cancer-diagnosis">ML Olympiad-Breast Cancer Diagnosis | Kaggle</a></td>
 <td style="width: 50.3314%; text-align: center; height: 18px;">8/64</td>
-</tr>
-<tr>
-<td style="width: 22.917%; text-align: center;">February 2023</td>
-<td style="width: 32.6942%; text-align: center;">RSNA Screening Mammography Breast Cancer Detection</td>
-<td style="width: 113.589%; text-align: center;"><a href="https://www.kaggle.com/code/edaaydinea/rsna-breast-cancer-detection">RSNA Breast Cancer Detection | Kaggle</a></td>
-<td style="width: 50.3314%; text-align: center;">1407/1687</td>
-</tr>
-<tr>
-<td style="width: 22.917%; text-align: center;">February 2023</td>
-<td style="width: 32.6942%; text-align: center;">House Prices - Advanced Regression Techniques</td>
-<td style="width: 113.589%; text-align: center;"><a href="https://www.kaggle.com/code/edaaydinea/house-prices-prediction">House Prices Prediction | Kaggle</a></td>
-<td style="width: 50.3314%; text-align: center;">1035/3996</td>
 </tr>
 </tbody>
 </table>
