@@ -6,18 +6,18 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
   
 
 ### 🎓My Learning - Experience Journey 
-- [MSc. in Data Science](https://www.colorado.edu/program/data-science/coursera-overview) ('26)
-- [Micro Bachelor in Neuroscience](https://www.edx.org/bachelors/microbachelors/harvardx-introduction-to-neuroscience) ('24)
+- [MSc. in Data Science - University of Colorado Boulder](https://www.colorado.edu/program/data-science/coursera-overview) ('26)
+- [Micro Bachelor in Neuroscience - Harvard University](https://www.edx.org/bachelors/microbachelors/harvardx-introduction-to-neuroscience) ('24)
 - [Google Associate Cloud Engineer Certificate Programme](https://www.upschool.io/google-cloud-data-engineer-programme) ('24)
-- Micro Master in Machine Learning, Neural Engineering ('24) (Graduated with honors)
+- Micro Master in Machine Learning, Neural Engineering - Colombia University ('24) (Graduated with honors)
 - [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
 - [Neurotechnology Spring School 2022, Neurobiology and Neurosciences](https://www.gtec.at/spring-school-2022/) ('22)
-- Micro Master in Artificial Intelligence ('21)
-- Bachelor of Engineering in Computer Engineering ('19)
+- Micro Master in Artificial Intelligence - Colombia University ('21)
+- Bachelor of Engineering in Computer Engineering - Altınbaş University ('19)
 
 ----
 
-- Clinical Research Data Scientist in Neurogenomics (2024 - Present)
+- Gradaute Clinical Research Student - Clinical Research Data Scientist Candidate (2024 - Present)
 - Graduate Research Student in Computational Neuroscience and Neurodegenerative diseases (2023 - 2024)
 - Deep Learning Engineer in Providing Artificial Intelligence Software for Medical Imaging (2023 - 2024)
 - Graduate Research Student in Traumatic Brain Injury (2022)
