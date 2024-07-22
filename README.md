@@ -8,8 +8,8 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 ### 🎓My Learning - Experience Journey 
 - [MSc. in Data Science - University of Colorado Boulder](https://www.colorado.edu/program/data-science/coursera-overview) ('26)
 - [Micro Bachelor in Neuroscience - Harvard University](https://www.edx.org/bachelors/microbachelors/harvardx-introduction-to-neuroscience) ('24)
-- [Google Associate Cloud Engineer Certificate Programme](https://www.upschool.io/google-cloud-data-engineer-programme) ('24)
 - Micro Master in Machine Learning, Neural Engineering - Colombia University ('24) (Graduated with honors)
+- [Google Associate Cloud Engineer Certificate Programme](https://www.upschool.io/google-cloud-data-engineer-programme) ('24)
 - [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
 - [Neurotechnology Spring School 2022, Neurobiology and Neurosciences](https://www.gtec.at/spring-school-2022/) ('22)
 - Micro Master in Artificial Intelligence - Colombia University ('21)
