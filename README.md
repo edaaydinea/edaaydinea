@@ -194,9 +194,14 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eda.aicodingwoman@@outlook.com)
   
 
-<br/>  
- 
- 
+<br/> 
+
+## Support me 
+<p><a href="https://www.buymeacoffee.com/edaaydinea"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="edaaydinea" /></a></p><br><br>
+
+<br/> 
+
+## Coding Activity Progress
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
