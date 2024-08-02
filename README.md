@@ -33,7 +33,7 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 ### 👷 Check out what I'm currently working on  
 - [Multiple Sclerosis Lesion Segmentation from Brain MRI Images by using the Deep Neural Networks](https://github.com/edaaydinea/Multiple-Sclerosis-Lesion-Segmentation-from-Brain-Magnetic-Resonance-Images-via-Fully-Convolutional) - Graduate Research Project 
-- [Detection of ALS (Amyotrophic Lateral Sclerosis)]() - Graduate Research Project
+- [Detection of ALS (Amyotrophic Lateral Sclerosis)](https://github.com/edaaydinea/Detection-of-Amyotrophic-Lateral-Sclerosis) - Graduate Research Project
 - [Detection of Dementia in the early stage by comparing Brain MRI images of Demented and Non-demented Adults](https://github.com/edaaydinea/Magnetic-Resonance-Imaging-Comparisons-of-Demented-and-Non-demented-Adults) - Graduate Research Project 
   
 
