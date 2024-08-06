@@ -226,35 +226,11 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 <br/> 
 
 ## Coding Activity Progress
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;">
-<h2 align="left"><img src="https://cdn.freebiesupply.com/logos/large/2x/wakatime-logo-png-transparent.png" width="32" height="32" />&nbsp;WakaTime Coding Activity</h2>
-</td>
-<td style="width: 50%;">
-<h2 align="left"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Profile Trophy</h2>
-</td>
-</tr>
-<tr>
-<td style="width: 50%;"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&amp;theme=dark&amp;range=last_7_days&amp;layout=compact&amp;custom_title=📊Weekly%20development%20breakdown" /></td>
-<td style="width: 50%;"><img src="https://github-profile-trophy.vercel.app/?username=edaaydinea&amp;theme=darkhub&amp;title=MultiLanguage,Stars,Commit,Repositories,Commits,Followers,PullRequest&amp;row=2&amp;column=3" /></td>
-</tr>
-</tbody>
-</table>
-<p align="left">&nbsp;</p>
+<h3 align="left"><img src="https://cdn.freebiesupply.com/logos/large/2x/wakatime-logo-png-transparent.png" width="32" height="32" />&nbsp;WakaTime Coding Activity</h3>
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&amp;theme=dark&amp;range=last_7_days&amp;layout=compact&amp;custom_title=📊Weekly%20development%20breakdown" width="545" height="154" /></p>
 
-<table border="0" style="margin-top:30px; border:0px; width: 882;" class="mt-4">
-  <hr />
-  <h2 align="left"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Read.Me Stats</h2>
-  <tbody>  
-    <tr>
-        <td style="width: 441;" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaaydinea&theme=dark&layout=compact&langs_count=10" />
-        </td>
-        <td style="width: 441;" align="center" >
-            <img src="https://github-readme-stats.vercel.app/api?username=edaaydinea&count_private=true&show_icons=true&theme=dark"/>
-        </td> 
-    </tr>
-  </tbody>
-</table>
+### Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
