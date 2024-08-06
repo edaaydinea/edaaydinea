@@ -26,4 +26,4 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SYMBOL_VERSION: 2
