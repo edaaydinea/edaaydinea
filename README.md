@@ -227,7 +227,7 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 ## Coding Activity Progress
 <h3 align="left"><img src="https://cdn.freebiesupply.com/logos/large/2x/wakatime-logo-png-transparent.png" width="32" height="32" />&nbsp;WakaTime Coding Activity</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&amp;theme=dark&amp;range=last_7_days&amp;layout=compact&amp;custom_title=📊Weekly%20development%20breakdown" width="545" height="154" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&amp;theme=dark&amp;range=last_7_days&amp;layout=compact&amp;custom_title=%F0%9F%93%8AWeekly%20development%20breakdown" width="545" height="154" /></p>
 
 ### Weekly Development Breakdown
 
