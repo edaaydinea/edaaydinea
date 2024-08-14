@@ -87,44 +87,6 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 </tbody>
 </table>
 
-### 🥇Challenges - Exams
-
-<table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
-  <thead>
-    <tr>
-      <th style="text-align: center; width: 20%;">Month/Year</th>
-      <th style="text-align: center; width: 60%;">Challenge Name</th>
-      <th style="text-align: center; width: 20%;">Score</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center;">July 2024</td>
-      <td style="text-align: center;">HackerRank Technical Interview Test - Stage 4 (Problem Solving)</td>
-      <td style="text-align: center;">255/255</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">July 2024</td>
-      <td style="text-align: center;">HackerRank Technical Interview Test - Stage 3 (Problem Solving)</td>
-      <td style="text-align: center;">290/290</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">June 2024</td>
-      <td style="text-align: center;">HackerRank Technical Interview Test - Stage 2 (Problem Solving)</td>
-      <td style="text-align: center;">280/280</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">June 2024</td>
-      <td style="text-align: center;">HackerRank Technical Interview Test - Stage 1 (Problem Solving)</td>
-      <td style="text-align: center;">195/195</td>
-    </tr>
-  </tbody>
-</table>
-
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
