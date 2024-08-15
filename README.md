@@ -58,7 +58,8 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 
 
-### 💻 My Latest Blogs  
+### 💻 My Latest Blogs
+- [Understanding Stroke: Causes, Symptoms, Treatment and Prevention](https://neuralailab.com/2024/05/31/understanding-stroke-causes-symptoms-treatment-and-prevention/)
 - [Deep Learning Architectures for Medical Image Segmentation](https://edaaydinea.home.blog/2023/02/03/deep-learning-architectures-for-medical-image-segmentation/)
 - [Beyni Anlamak için Neden Matematiğe İhtiyacımız var?](https://edaaydinea.home.blog/2021/09/05/beyni-anlamak-icin-neden-matematige-ihtiyacimiz-var/)
 - [Niçin Tıp Alanında Yapay Zeka'ya İhtiyaç Var?](https://edaaydinea.home.blog/2021/09/01/nicin-tip-alaninda-yapay-zekaya-ihtiyac-var/)
