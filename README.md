@@ -32,9 +32,12 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 
 ### 👷 Check out what I'm currently working on  
-- [Multiple Sclerosis Lesion Segmentation from Brain MRI Images by using the Deep Neural Networks](https://github.com/edaaydinea/Multiple-Sclerosis-Lesion-Segmentation-from-Brain-Magnetic-Resonance-Images-via-Fully-Convolutional) - Graduate Research Project 
-- [Detection of ALS (Amyotrophic Lateral Sclerosis)](https://github.com/edaaydinea/Detection-of-Amyotrophic-Lateral-Sclerosis) - Graduate Research Project
-- [Detection of Dementia in the early stage by comparing Brain MRI images of Demented and Non-demented Adults](https://github.com/edaaydinea/Magnetic-Resonance-Imaging-Comparisons-of-Demented-and-Non-demented-Adults) - Graduate Research Project 
+*   [Predictive Modeling of Multiple Sclerosis Risk in CIS Patients](https://github.com/edaaydinea/Predictive-Modeling-of-Multiple-Sclerosis-Risk-in-CIS-Patients) - Graduate Research Project 
+*   [Predictive Modeling of Alzheimer's Disease Using Cross-Sectional and Longitudinal MRI Data](https://github.com/edaaydinea/Predictive-Modeling-of-Alzheimer-Disease) - Graduate Research Project 
+*   [Predictive Modeling of Traumatic Brain Injury](https://github.com/edaaydinea/Predictive-Modeling-of-Traumatic-Brain-Injury) - Graduate Research Project
+*   [EEG-Based Epileptic Seizure Detection Using Machine Learning Techniques]() - Graduate Research Project
+*   [Investigating Corollary Discharge Mechanisms in Schizoprenia Using EEG Data]() - Graduate Research Project
+*   [Electrophysiological Correlated of Cognitive Task Performance: Analyzing MSIT+, Oddball, and SRT Tasks]() - Graduate Research Project
   
 
 
