@@ -51,7 +51,9 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 
 
-### 🏆My Latest Certifications  
+### 🏆My Latest Certifications
+- 🆕[Computational Neuroscience](https://coursera.org/share/e8e1feb716da218f96458f0d551319d5) - September 2024
+- 🆕[Machine Learning Engineering for Production Specialization](https://coursera.org/share/392eba91eb13781461b26a0a46a815cb) - September 2024
 - [TensorFlow Developer Certificate](https://www.credential.net/dc1e1d4c-0b56-4c66-8efe-62b8532ef2e4#gs.k32wiw) - December 2022
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CVQYVGSZFQL8) - December 2022
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VRNVSWB69V2Z) - November 2022
@@ -61,14 +63,18 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 
 ### 💻 My Latest Blogs
-- [Understanding Stroke: Causes, Symptoms, Treatment and Prevention](https://neuralailab.com/2024/05/31/understanding-stroke-causes-symptoms-treatment-and-prevention/)
+- 🆕[Tge Intersection of Synaptic Plasticity and AI: Hebbian Learning in Modern Algorithms](https://edaaydinea.home.blog/2024/09/15/the-intersection-of-synaptic-plasticity-and-ai-hebbian-learning-in-modern-algorithms/)
 - [Deep Learning Architectures for Medical Image Segmentation](https://edaaydinea.home.blog/2023/02/03/deep-learning-architectures-for-medical-image-segmentation/)
 - [Beyni Anlamak için Neden Matematiğe İhtiyacımız var?](https://edaaydinea.home.blog/2021/09/05/beyni-anlamak-icin-neden-matematige-ihtiyacimiz-var/)
 - [Niçin Tıp Alanında Yapay Zeka'ya İhtiyaç Var?](https://edaaydinea.home.blog/2021/09/01/nicin-tip-alaninda-yapay-zekaya-ihtiyac-var/)
 - [Data Science Life Cycle](https://edaaydinea.home.blog/2021/09/01/data-science-life-cycle/)
 - [Sağlık Alanında Veri Bilimi](https://edaaydinea.home.blog/2021/08/31/saglik-alaninda-veri-bilimi/)
 - [MOBILISE Projesi](https://edaaydinea.home.blog/2021/08/18/mobilise-projesi/)
-- [STOpFrac Projesi](https://edaaydinea.home.blog/2021/08/18/stopfrac-projesi/)  
+- [STOpFrac Projesi](https://edaaydinea.home.blog/2021/08/18/stopfrac-projesi/)
+
+
+### 📄 My Latest Publications
+- 🆕[Understanding Stroke: Causes, Symptoms, Treatment and Prevention](https://neuralailab.com/2024/05/31/understanding-stroke-causes-symptoms-treatment-and-prevention/)
 
 
 ### 🥇Competitions
