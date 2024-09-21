@@ -54,6 +54,7 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 ### 🏆My Latest Certifications
 - 🆕[Computational Neuroscience](https://coursera.org/share/e8e1feb716da218f96458f0d551319d5) - September 2024
 - 🆕[Machine Learning Engineering for Production Specialization](https://coursera.org/share/392eba91eb13781461b26a0a46a815cb) - September 2024
+- 🆕[Machine Learning Specialization](https://coursera.org/share/dcfebcc8d3b0bbce7199ded9e9311198) - September 2024
 - [TensorFlow Developer Certificate](https://www.credential.net/dc1e1d4c-0b56-4c66-8efe-62b8532ef2e4#gs.k32wiw) - December 2022
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CVQYVGSZFQL8) - December 2022
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VRNVSWB69V2Z) - November 2022
