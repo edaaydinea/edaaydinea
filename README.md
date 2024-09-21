@@ -173,7 +173,7 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 
 ### Education  
-[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/8a9b2728ea54a55b983221154307fb02)
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/edaaydinea)
 [![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](https://profile.edx.org/u/edaaydinea19)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/edaaydin.ea)  
 
