@@ -64,6 +64,7 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 
 ### 💻 My Latest Blogs
+- 🆕[Understanding Consciousness: Can AI Models Teach Us About the Mind?](https://edaaydinea.home.blog/2024/09/22/understanding-consciousness-can-ai-models-teach-us-about-the-mind/)
 - 🆕[The Intersection of Synaptic Plasticity and AI: Hebbian Learning in Modern Algorithms](https://edaaydinea.home.blog/2024/09/15/the-intersection-of-synaptic-plasticity-and-ai-hebbian-learning-in-modern-algorithms/)
 - [Deep Learning Architectures for Medical Image Segmentation](https://edaaydinea.home.blog/2023/02/03/deep-learning-architectures-for-medical-image-segmentation/)
 - [Beyni Anlamak için Neden Matematiğe İhtiyacımız var?](https://edaaydinea.home.blog/2021/09/05/beyni-anlamak-icin-neden-matematige-ihtiyacimiz-var/)
