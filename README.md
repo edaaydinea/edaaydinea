@@ -52,6 +52,8 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 
 ### 🏆My Latest Certifications
+- 🆕[AI for Healthcare Specialization](https://coursera.org/share/100ff7a2f8331292b486d5aa677f82e5) - October 2024
+  - [Transcript](https://github.com/edaaydinea/AIinHealthcare/blob/main/transcript.pdf)
 - 🆕[Computational Neuroscience](https://coursera.org/share/e8e1feb716da218f96458f0d551319d5) - September 2024
 - 🆕[Machine Learning Engineering for Production Specialization](https://coursera.org/share/392eba91eb13781461b26a0a46a815cb) - September 2024
 - 🆕[Machine Learning Specialization](https://coursera.org/share/dcfebcc8d3b0bbce7199ded9e9311198) - September 2024
