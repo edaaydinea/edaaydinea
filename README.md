@@ -66,6 +66,7 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 
 ### 💻 My Latest Blogs
+- 🆕[Decoding the Genome: How AI Is Revolutionizing Neurogenomics Research](https://edaaydinea.home.blog/2024/10/06/decoding-the-genome-how-ai-is-revolutionizing-neurogenomics-research/)
 - 🆕[Decoding Emotions: Can AI Understand and Simulate Human Emotional Processing?](https://edaaydinea.home.blog/2024/09/30/decoding-emotions-can-ai-understand-and-simulate-human-emotional-processing/)
 - 🆕[Understanding Consciousness: Can AI Models Teach Us About the Mind?](https://edaaydinea.home.blog/2024/09/22/understanding-consciousness-can-ai-models-teach-us-about-the-mind/)
 - 🆕[The Intersection of Synaptic Plasticity and AI: Hebbian Learning in Modern Algorithms](https://edaaydinea.home.blog/2024/09/15/the-intersection-of-synaptic-plasticity-and-ai-hebbian-learning-in-modern-algorithms/)
