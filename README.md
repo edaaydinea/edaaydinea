@@ -209,7 +209,7 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 <!--<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=edaaydinea&amp;theme=dark&amp;range=last_7_days&amp;layout=compact&amp;custom_title=%F0%9F%93%8AWeekly%20development%20breakdown" width="545" height="154" /></p>-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C637%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C644%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -294,5 +294,5 @@ TeX                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/edaaydinea/edaaydinea/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 01:49:39 UTC
+ Last Updated on 03/11/2024 01:57:03 UTC
 <!--END_SECTION:waka-->
