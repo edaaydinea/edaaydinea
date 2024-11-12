@@ -5,7 +5,7 @@ I'm a self-taught woman engineer for artificial intelligence in healthcare (espe
 I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
   
 
-### 🎓My Learning - Experience Journey 
+### 🎓My Learning Journey 
 - [MSc. in Data Science - University of Colorado Boulder](https://www.colorado.edu/program/data-science/coursera-overview) ('26)
 - Micro Master in Machine Learning, Neural Engineering - Colombia University ('24) (Graduated with honors)
 - [Google Associate Cloud Engineer Certificate Programme](https://www.upschool.io/google-cloud-data-engineer-programme) ('24)
@@ -14,18 +14,20 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 - Micro Master in Artificial Intelligence - Colombia University ('21)
 - Bachelor of Engineering in Computer Engineering - Altınbaş University ('19)
 
-----
+### 💼 My Experience Journey 
 
-- Graduate Student Clinical Researcher - Clinical Research Data Scientist (2024 - Present)
+- Clinical Research Data Analyst - Data Scientist (2024 - Present)
 - Graduate Research Student in Computational Neuroscience and Neurodegenerative diseases (2023 - 2024)
 - Deep Learning Engineer in Providing Artificial Intelligence Software for Medical Imaging (2023 - 2024)
+- Machine Learning & Deep Learning Engineer (2022 - 2023)
 - Graduate Research Student in Traumatic Brain Injury (2022)
 - Graduate Research Student in Dementia (2022)
 - Graduate Research Student in Multiple Sclerosis (2021)
+- Machine Learning Project Team Lead (2021)
 - Summer Research Student in ML and Neuroscience (2021)
 - Research Student in COVID-19 Medical Image AI Model Research and Development (2020)
 - Research Student in Data Science for Development (2020)
-- Artificial Intelligence Intern in NLP (2019)  
+- Artificial Intelligence Engineer - Intern (2019)  
   
 
 
