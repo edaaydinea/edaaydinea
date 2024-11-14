@@ -2,11 +2,11 @@
 
 I'm a self-taught woman engineer for artificial intelligence in healthcare (especially neuroscience). 
 
-I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
+I'm a Data Analyst and Data Scientist.
   
 
 ### 🎓My Learning Journey 
-- [MSc. in Data Science - University of Colorado Boulder](https://www.colorado.edu/program/data-science/coursera-overview) ('26)
+- [MSc. in Data Science - University of Colorado Boulder](https://www.colorado.edu/program/data-science/coursera-overview) (On Hold)
 - Micro Master in Machine Learning, Neural Engineering - Colombia University ('24) (Graduated with honors)
 - [Google Associate Cloud Engineer Certificate Programme](https://www.upschool.io/google-cloud-data-engineer-programme) ('24)
 - [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
@@ -16,7 +16,6 @@ I'm a Clinical Data Analyst - Scientist, and Healthcare Data Scientist.
 
 ### 💼 My Experience Journey 
 
-- Clinical Research Data Analyst - Data Scientist (2024 - Present)
 - Graduate Research Student in Computational Neuroscience and Neurodegenerative diseases (2023 - 2024)
 - Deep Learning Engineer in Providing Artificial Intelligence Software for Medical Imaging (2023 - 2024)
 - Machine Learning & Deep Learning Engineer (2022 - 2023)
