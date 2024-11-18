@@ -16,6 +16,7 @@ I'm a Data Analyst and Data Scientist.
 
 ### 💼 My Experience Journey 
 
+- Data Analyst, Data Scientist (2024 - )
 - Graduate Research Student in Computational Neuroscience and Neurodegenerative diseases (2023 - 2024)
 - Deep Learning Engineer in Providing Artificial Intelligence Software for Medical Imaging (2023 - 2024)
 - Machine Learning & Deep Learning Engineer (2022 - 2023)
