@@ -19,6 +19,7 @@ I'm a Data Analyst and Data Scientist.
 - Data Analyst, Data Scientist (2024 - )
 - Graduate Research Student in Computational Neuroscience and Neurodegenerative diseases (2023 - 2024)
 - Deep Learning Engineer in Providing Artificial Intelligence Software for Medical Imaging (2023 - 2024)
+- Data Mining Analytst (2023 - 2023)
 - Machine Learning & Deep Learning Engineer (2022 - 2023)
 - Graduate Research Student in Traumatic Brain Injury (2022)
 - Graduate Research Student in Dementia (2022)
