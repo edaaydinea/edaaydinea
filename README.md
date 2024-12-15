@@ -55,11 +55,12 @@ I'm a Data Analyst and Data Scientist.
 
 
 ### 🏆My Latest Certifications
-- 🆕[AI for Healthcare Specialization](https://coursera.org/share/100ff7a2f8331292b486d5aa677f82e5) - October 2024
+- [Master the Concepts of Data Visualization and Storytelling](https://www.linkedin.com/learning/certificates/c375d134838309be5f4358cf076e64cf33386d4deb009fe45586f81120868050) - November 2024
+- [AI for Healthcare Specialization](https://coursera.org/share/100ff7a2f8331292b486d5aa677f82e5) - October 2024
   - [Transcript](https://github.com/edaaydinea/AIinHealthcare/blob/main/transcript.pdf)
-- 🆕[Computational Neuroscience](https://coursera.org/share/e8e1feb716da218f96458f0d551319d5) - September 2024
-- 🆕[Machine Learning Engineering for Production Specialization](https://coursera.org/share/392eba91eb13781461b26a0a46a815cb) - September 2024
-- 🆕[Machine Learning Specialization](https://coursera.org/share/dcfebcc8d3b0bbce7199ded9e9311198) - September 2024
+- [Computational Neuroscience](https://coursera.org/share/e8e1feb716da218f96458f0d551319d5) - September 2024
+- [Machine Learning Engineering for Production Specialization](https://coursera.org/share/392eba91eb13781461b26a0a46a815cb) - September 2024
+- [Machine Learning Specialization](https://coursera.org/share/dcfebcc8d3b0bbce7199ded9e9311198) - September 2024
 - [TensorFlow Developer Certificate](https://www.credential.net/dc1e1d4c-0b56-4c66-8efe-62b8532ef2e4#gs.k32wiw) - December 2022
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CVQYVGSZFQL8) - December 2022
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VRNVSWB69V2Z) - November 2022
@@ -69,10 +70,11 @@ I'm a Data Analyst and Data Scientist.
 
 
 ### 💻 My Latest Blogs
-- 🆕[Decoding the Genome: How AI Is Revolutionizing Neurogenomics Research](https://edaaydinea.home.blog/2024/10/06/decoding-the-genome-how-ai-is-revolutionizing-neurogenomics-research/)
-- 🆕[Decoding Emotions: Can AI Understand and Simulate Human Emotional Processing?](https://edaaydinea.home.blog/2024/09/30/decoding-emotions-can-ai-understand-and-simulate-human-emotional-processing/)
-- 🆕[Understanding Consciousness: Can AI Models Teach Us About the Mind?](https://edaaydinea.home.blog/2024/09/22/understanding-consciousness-can-ai-models-teach-us-about-the-mind/)
-- 🆕[The Intersection of Synaptic Plasticity and AI: Hebbian Learning in Modern Algorithms](https://edaaydinea.home.blog/2024/09/15/the-intersection-of-synaptic-plasticity-and-ai-hebbian-learning-in-modern-algorithms/)
+- 🆕[From Genomes to Neurons: The role of Bioinformatics in Neuroscience Research](https://edaaydinea.home.blog/2024/12/15/from-genomes-to-neurons-the-role-of-bioinformatics-in-neuroscience-research/)
+- [Decoding the Genome: How AI Is Revolutionizing Neurogenomics Research](https://edaaydinea.home.blog/2024/10/06/decoding-the-genome-how-ai-is-revolutionizing-neurogenomics-research/)
+- [Decoding Emotions: Can AI Understand and Simulate Human Emotional Processing?](https://edaaydinea.home.blog/2024/09/30/decoding-emotions-can-ai-understand-and-simulate-human-emotional-processing/)
+- [Understanding Consciousness: Can AI Models Teach Us About the Mind?](https://edaaydinea.home.blog/2024/09/22/understanding-consciousness-can-ai-models-teach-us-about-the-mind/)
+- [The Intersection of Synaptic Plasticity and AI: Hebbian Learning in Modern Algorithms](https://edaaydinea.home.blog/2024/09/15/the-intersection-of-synaptic-plasticity-and-ai-hebbian-learning-in-modern-algorithms/)
 - [Deep Learning Architectures for Medical Image Segmentation](https://edaaydinea.home.blog/2023/02/03/deep-learning-architectures-for-medical-image-segmentation/)
 - [Beyni Anlamak için Neden Matematiğe İhtiyacımız var?](https://edaaydinea.home.blog/2021/09/05/beyni-anlamak-icin-neden-matematige-ihtiyacimiz-var/)
 - [Niçin Tıp Alanında Yapay Zeka'ya İhtiyaç Var?](https://edaaydinea.home.blog/2021/09/01/nicin-tip-alaninda-yapay-zekaya-ihtiyac-var/)
