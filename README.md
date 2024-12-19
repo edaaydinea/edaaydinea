@@ -2,7 +2,7 @@
 
 I'm a self-taught woman engineer for artificial intelligence in healthcare (especially neuroscience). 
 
-I'm a Data Analyst and Data Scientist.
+I'm a Data Analyst, Data Scientist NLP - Generative AI - LLM - Prompt Engineer.
   
 
 ### 🎓My Learning Journey 
@@ -17,6 +17,7 @@ I'm a Data Analyst and Data Scientist.
 ### 💼 My Experience Journey 
 
 - Data Analyst, Data Scientist (2024 - )
+- Coding Specialist in AI, NLP - Generative AI - LLM - Prompt Engineer (2024 - )
 - Graduate Research Student in Computational Neuroscience and Neurodegenerative diseases (2023 - 2024)
 - Deep Learning Engineer in Providing Artificial Intelligence Software for Medical Imaging (2023 - 2024)
 - Data Mining Analytst (2023 - 2023)
