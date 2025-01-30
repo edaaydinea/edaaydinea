@@ -31,7 +31,9 @@ I'm a Data Analyst, Data Scientist NLP - Generative AI - LLM - Prompt Engineer.
 - Research Student in Data Science for Development (2020)
 - Artificial Intelligence Engineer - Intern (2019)  
   
+### 💼 My Job Simulation Journey
 
+- 🆕[PwC Switzerland Job Simulation on Forage](https://github.com/edaaydinea/PwCSwitzerland_PowerBI/tree/main)
 
 
 ### 👷 Check out what I'm currently working on  
@@ -56,6 +58,10 @@ I'm a Data Analyst, Data Scientist NLP - Generative AI - LLM - Prompt Engineer.
 
 
 ### 🏆My Latest Certifications
+- 🆕[IBM Machine Learning Specialist Advanced Badge](https://www.credly.com/badges/f83e64ac-6dd9-4863-bb56-598df68a52fd/public_url ) - Jan 2025
+- 🆕[Statistical Foundations Professional Certificate by Wolfram Research](https://www.linkedin.com/learning/certificates/634bdfd33c06cee240f49efad4b1683f87d3d03e447a9f2c8964637f453a4108?trk=share_certificate ) - Jan 2025
+- 🆕[Become a Power BI Specialist](https://www.linkedin.com/learning/certificates/78851c026f9e619b7626a56275e25ac154a3633ac3262f1e95184df0a1ba0256 ) - Jan 2025
+- 🆕[Develop Your Tableau Skills](https://www.linkedin.com/learning/certificates/05534f41e8b9c672362b9856ef809d36eb17ed890bde8b2f9e753803e1c7cd0c ) - Jan 2025
 - [Master the Concepts of Data Visualization and Storytelling](https://www.linkedin.com/learning/certificates/c375d134838309be5f4358cf076e64cf33386d4deb009fe45586f81120868050) - November 2024
 - [AI for Healthcare Specialization](https://coursera.org/share/100ff7a2f8331292b486d5aa677f82e5) - October 2024
   - [Transcript](https://github.com/edaaydinea/AIinHealthcare/blob/main/transcript.pdf)
@@ -71,7 +77,7 @@ I'm a Data Analyst, Data Scientist NLP - Generative AI - LLM - Prompt Engineer.
 
 
 ### 💻 My Latest Blogs
-- 🆕[From Genomes to Neurons: The role of Bioinformatics in Neuroscience Research](https://edaaydinea.home.blog/2024/12/15/from-genomes-to-neurons-the-role-of-bioinformatics-in-neuroscience-research/)
+- [From Genomes to Neurons: The role of Bioinformatics in Neuroscience Research](https://edaaydinea.home.blog/2024/12/15/from-genomes-to-neurons-the-role-of-bioinformatics-in-neuroscience-research/)
 - [Decoding the Genome: How AI Is Revolutionizing Neurogenomics Research](https://edaaydinea.home.blog/2024/10/06/decoding-the-genome-how-ai-is-revolutionizing-neurogenomics-research/)
 - [Decoding Emotions: Can AI Understand and Simulate Human Emotional Processing?](https://edaaydinea.home.blog/2024/09/30/decoding-emotions-can-ai-understand-and-simulate-human-emotional-processing/)
 - [Understanding Consciousness: Can AI Models Teach Us About the Mind?](https://edaaydinea.home.blog/2024/09/22/understanding-consciousness-can-ai-models-teach-us-about-the-mind/)
