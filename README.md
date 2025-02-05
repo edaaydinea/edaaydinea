@@ -1,8 +1,8 @@
 ### Eda AYDIN
 
-I'm a self-taught woman engineer for artificial intelligence in healthcare (especially neuroscience). 
+I'm a self-taught woman engineer for artificial intelligence in healthcare. 
 
-I'm a Data Analyst, Data Scientist NLP - Generative AI - LLM - Prompt Engineer.
+I'm a Data Analyst/Scientist, NLP - Generative AI - LLM - Prompt Engineer.
   
 
 ### 🎓My Learning Journey 
