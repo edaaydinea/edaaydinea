@@ -19,7 +19,7 @@ I'm a Data Analyst/Scientist, NLP - Generative AI - LLM - Prompt Engineer.
 - **Data Scientist/Analyst** | *Turing*  (Jan 2025 - Present)
 - **Data Scientist/Analyst** | *Upwork, Freelancer.com* (Nov 2024 - Present)  
 - **Coding Specialist in AI, NLP - Generative AI - LLM - Prompt Engineer** | *Outlier* (Jul 2024 - Present)  
-- [**Data Analytics Engineer** (Internship)]() | *Quantium* (Feb 2025 - Present)  
+- [**Data Analytics Engineer** (Internship)](https://github.com/edaaydinea/quantiumDataAnalytics/tree/main) | *Quantium* (Feb 2025 - Present)  
 - [**Data Scientist** (Internship)](https://github.com/edaaydinea/BritishAirwaysDataScience/tree/main) | *British Airways* (Jan 2025 - Feb 2025)  
 - [**Power BI Developer** (Internship)](https://github.com/edaaydinea/PwCSwitzerland_PowerBI/tree/main) - *PwC Switzerland* (Jan 2025 - Jan 2025)  
 - **Graduate Research Student in Computational Neuroscience & Neurodegenerative Diseases** | *Neural AI Integration Research Lab* (Feb 2023 - Jul 2024)  
