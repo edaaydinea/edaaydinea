@@ -16,24 +16,24 @@ I'm a Data Analyst, Data Scientist NLP - Generative AI - LLM - Prompt Engineer.
 
 ### 💼 My Experience Journey 
 
-- Data Analyst, Data Scientist (2024 - )
-- Coding Specialist in AI, NLP - Generative AI - LLM - Prompt Engineer (2024 - )
-- Graduate Research Student in Computational Neuroscience and Neurodegenerative diseases (2023 - 2024)
-- Deep Learning Engineer in Providing Artificial Intelligence Software for Medical Imaging (2023 - 2024)
-- Data Mining Analytst (2023 - 2023)
-- Machine Learning & Deep Learning Engineer (2022 - 2023)
-- Graduate Research Student in Traumatic Brain Injury (2022)
-- Graduate Research Student in Dementia (2022)
-- Graduate Research Student in Multiple Sclerosis (2021)
-- Machine Learning Project Team Lead (2021)
-- Summer Research Student in ML and Neuroscience (2021)
-- Research Student in COVID-19 Medical Image AI Model Research and Development (2020)
-- Research Student in Data Science for Development (2020)
-- Artificial Intelligence Engineer - Intern (2019)  
-  
-### 💼 My Job Simulation Journey
-
-- 🆕[PwC Switzerland Job Simulation on Forage](https://github.com/edaaydinea/PwCSwitzerland_PowerBI/tree/main)
+- **Data Scientist/Analyst** | *Turing*  (Jan 2025 - Present)
+- **Data Scientist/Analyst** | *Upwork, Freelancer.com* (Nov 2024 - Present)  
+- **Coding Specialist in AI, NLP - Generative AI - LLM - Prompt Engineer** | *Outlier* (Jul 2024 - Present)  
+- [**Data Analytics Engineer** (Internship)]() | *Quantium* (Feb 2025 - Present)  
+- [**Data Scientist** (Internship)]() | *British Airways* (Jan 2025 - Feb 2025)  
+- [**Power BI Developer** (Internship)](https://github.com/edaaydinea/PwCSwitzerland_PowerBI/tree/main) - *PwC Switzerland* (Jan 2025 - Jan 2025)  
+- **Graduate Research Student in Computational Neuroscience & Neurodegenerative Diseases** | *Neural AI Integration Research Lab* (Feb 2023 - Jul 2024)  
+- **Analytics/NLP Engineer** | *hevi.ai* (May 2023 - Jun 2024)  
+- **Data Mining Analyst** | *AYA: Açık Yazılım Ağı* (Feb 2023 - May 2023)  
+- **ML & Deep Learning Engineer** | *UpSchool* (Jul 2022 - Jan 2023)  
+- **Graduate Research Student in Traumatic Brain Injury** | *Wicking Dementia Research & Education Centre* (Mar 2022 - Aug 2022)  
+- **Graduate Research Student in Dementia** | *Wicking Dementia Research & Education Centre*  (Feb 2022 - Jul 2022)  
+- **Graduate Research Student in Multiple Sclerosis** | *Menzies Institute for Medical Research* (Sep 2021 - Feb 2022)  
+- **Machine Learning Project Team Lead** | *Kodluyoruz* (Sep 2021 - Nov 2021)  
+- **Summer Research Student in ML and Neuroscience** | *Center of Brains, Minds, and Machines* (Aug 2021 - Sep 2021)
+- **Data Scientist** | *UNDP* (Mar 2020 - Sep 2020) 
+- **Artificial Intelligence Engineer**(Internship) | *Coff R&D* (Jan 2019 - Sep 2019)  
+ 
 
 
 ### 👷 Check out what I'm currently working on  
