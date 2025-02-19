@@ -19,6 +19,8 @@ I'm a Data Analyst/Scientist, NLP - Generative AI - LLM - Prompt Engineer.
 *   **Data Scientist/Analyst** | _Turing_ (Jan 2025 - Present)
 *   **Data Scientist/Analyst** | _Upwork, Freelancer.com_ (Nov 2024 - Present)
 *   **Coding Specialist in AI, NLP - Generative AI - LLM - Prompt Engineer** | _Outlier_ (Jul 2024 - Present)
+*   [**Data Visualization: Empowering Business with Effective Insights Virtual Intership Program**]() | _TATA_ (Feb 2025 - Present)
+*   [**Data Analytics Virtual Internship Program**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Qc5J6kzq88L9BDRGv_1740000262094_completion_certificate.pdf) | _Deloitte_ (Feb 2025)
 *   [**NLP - GenAI Virtual Internship Program**](https://github.com/edaaydinea/BCGxGENAI) | _Boston Consolting Group_ (Feb 2025)
 *   [**Data Science Virtual Internship Program**](https://github.com/edaaydinea/BCGxDataScience/tree/main) | _Boston Consulting Group_  (Feb 2025)
 *   [**Data Analytics Virtual Internship Program**](https://github.com/edaaydinea/quantiumDataAnalytics/tree/main) | _Quantium_ (Feb 2025)
