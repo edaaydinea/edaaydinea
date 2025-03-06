@@ -109,7 +109,7 @@ I'm a Data Analyst/Scientist, NLP - Generative AI - LLM - Prompt Engineer.
 
 ## Support me
 
-[![edaaydinea](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/edaaydinea)
+[![edaaydinea](https://shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/edaaydinea)
 
 ## Coding Activity Progress
 
