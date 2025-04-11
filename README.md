@@ -155,7 +155,7 @@ I'm a Data Analyst/Scientist, NLP - Generative AI - LLM - Prompt Engineer.
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C267%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=edaaydinea&color=blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.9%20million%20lines%20of%20code-blue)
 
