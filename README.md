@@ -19,6 +19,7 @@ I'm a Data Analyst/Scientist, NLP - Generative AI - LLM - Prompt Engineer.
 *   **Data Scientist/Analyst** | _Turing_ (Jan 2025 - Present)
 *   **Data Scientist/Analyst** | _Upwork, Freelancer.com_ (Nov 2024 - Present)
 *   **Coding Specialist in AI, NLP - Generative AI - LLM - Prompt Engineer** | _Outlier_ (Jul 2024 - Present)
+*   [**Data Science & Analytics Internship Program**](https://github.com/edaaydinea/LloydsDataScienceAnalytics) | _Lloyds Banking Group_ (Mar 2025 - Apr 2025)
 *   [**Data Science Virtual Intership Program**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_Qc5J6kzq88L9BDRGv_1740872118840_completion_certificate.pdf) | _Commonwealth Bank_ (Feb 2025 - Mar 2025)
 *   [**Data Visualization: Empowering Business with Effective Insights Virtual Intership Program**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_Qc5J6kzq88L9BDRGv_1740414093554_completion_certificate.pdf) | _TATA_ (Feb 2025)
 *   [**Data Analytics Virtual Internship Program**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Qc5J6kzq88L9BDRGv_1740000262094_completion_certificate.pdf) | _Deloitte_ (Feb 2025)
@@ -75,22 +76,18 @@ I'm a Data Analyst/Scientist, NLP - Generative AI - LLM - Prompt Engineer.
 
 ### 💻 My Latest Blogs
 
-*   [From Genomes to Neurons: The role of Bioinformatics in Neuroscience Research](https://edaaydinea.home.blog/2024/12/15/from-genomes-to-neurons-the-role-of-bioinformatics-in-neuroscience-research/)
-*   [Decoding the Genome: How AI Is Revolutionizing Neurogenomics Research](https://edaaydinea.home.blog/2024/10/06/decoding-the-genome-how-ai-is-revolutionizing-neurogenomics-research/)
-*   [Decoding Emotions: Can AI Understand and Simulate Human Emotional Processing?](https://edaaydinea.home.blog/2024/09/30/decoding-emotions-can-ai-understand-and-simulate-human-emotional-processing/)
-*   [Understanding Consciousness: Can AI Models Teach Us About the Mind?](https://edaaydinea.home.blog/2024/09/22/understanding-consciousness-can-ai-models-teach-us-about-the-mind/)
-*   [The Intersection of Synaptic Plasticity and AI: Hebbian Learning in Modern Algorithms](https://edaaydinea.home.blog/2024/09/15/the-intersection-of-synaptic-plasticity-and-ai-hebbian-learning-in-modern-algorithms/)
-*   [Deep Learning Architectures for Medical Image Segmentation](https://edaaydinea.home.blog/2023/02/03/deep-learning-architectures-for-medical-image-segmentation/)
-*   [Beyni Anlamak için Neden Matematiğe İhtiyacımız var?](https://edaaydinea.home.blog/2021/09/05/beyni-anlamak-icin-neden-matematige-ihtiyacimiz-var/)
-*   [Niçin Tıp Alanında Yapay Zeka'ya İhtiyaç Var?](https://edaaydinea.home.blog/2021/09/01/nicin-tip-alaninda-yapay-zekaya-ihtiyac-var/)
-*   [Data Science Life Cycle](https://edaaydinea.home.blog/2021/09/01/data-science-life-cycle/)
-*   [Sağlık Alanında Veri Bilimi](https://edaaydinea.home.blog/2021/08/31/saglik-alaninda-veri-bilimi/)
-*   [MOBILISE Projesi](https://edaaydinea.home.blog/2021/08/18/mobilise-projesi/)
-*   [STOpFrac Projesi](https://edaaydinea.home.blog/2021/08/18/stopfrac-projesi/)
-
-### 📄 My Latest Publications
-
-*   🆕[Understanding Stroke: Causes, Symptoms, Treatment and Prevention](https://neuralailab.com/2024/05/31/understanding-stroke-causes-symptoms-treatment-and-prevention/)
+*   [From Genomes to Neurons: The role of Bioinformatics in Neuroscience Research](https://edaaydinea.com/2024/12/15/from-genomes-to-neurons-the-role-of-bioinformatics-in-neuroscience-research/)
+*   [Decoding the Genome: How AI Is Revolutionizing Neurogenomics Research](https://edaaydinea.com/2024/10/06/decoding-the-genome-how-ai-is-revolutionizing-neurogenomics-research/)
+*   [Decoding Emotions: Can AI Understand and Simulate Human Emotional Processing?](https://edaaydinea.com/2024/09/30/decoding-emotions-can-ai-understand-and-simulate-human-emotional-processing/)
+*   [Understanding Consciousness: Can AI Models Teach Us About the Mind?](https://edaaydinea.com/2024/09/22/understanding-consciousness-can-ai-models-teach-us-about-the-mind/)
+*   [The Intersection of Synaptic Plasticity and AI: Hebbian Learning in Modern Algorithms](https://edaaydinea.com/2024/09/15/the-intersection-of-synaptic-plasticity-and-ai-hebbian-learning-in-modern-algorithms/)
+*   [Deep Learning Architectures for Medical Image Segmentation](https://edaaydinea.com/2023/02/03/deep-learning-architectures-for-medical-image-segmentation/)
+*   [Beyni Anlamak için Neden Matematiğe İhtiyacımız var?](https://edaaydinea.com/2021/09/05/beyni-anlamak-icin-neden-matematige-ihtiyacimiz-var/)
+*   [Niçin Tıp Alanında Yapay Zeka'ya İhtiyaç Var?](https://edaaydinea.com/2021/09/01/nicin-tip-alaninda-yapay-zekaya-ihtiyac-var/)
+*   [Data Science Life Cycle](https://edaaydinea.com/2021/09/01/data-science-life-cycle/)
+*   [Sağlık Alanında Veri Bilimi](https://edaaydinea.com/2021/08/31/saglik-alaninda-veri-bilimi/)
+*   [MOBILISE Projesi](https://edaaydinea.com/2021/08/18/mobilise-projesi/)
+*   [STOpFrac Projesi](https://edaaydinea.com/2021/08/18/stopfrac-projesi/)
 
 ### 🥇Competitions
 
@@ -98,14 +95,55 @@ I'm a Data Analyst/Scientist, NLP - Generative AI - LLM - Prompt Engineer.
 
 ## My Skill Set
 
-<table><tbody><tr><td><h3><strong>Frameworks, Platforms and Libraries</strong></h3><h4><i>Machine Learning, Deep Learning, Image Processing</i></h4><p><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&amp;logo=anaconda&amp;logoColor=white" alt="Anaconda"><br><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"></p><p><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&amp;logo=Keras&amp;logoColor=white" alt="Keras"><br><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch"><br><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow"><br><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=blue" alt="mlflow"></p><p><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"><br><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"><br><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&amp;logo=scipy&amp;logoColor=%white" alt="SciPy"><br><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Plotly"><br><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&amp;logo=Matplotlib&amp;logoColor=black" alt="Matplotlib"></p><p><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn"></p><h4><i>Web Development</i></h4><p><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&amp;logo=fastapi" alt="FastAPI"></p><hr><h3><strong>Databases</strong></h3><p><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"><br><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres"><br><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite"></p></td><td><h3><strong>Coding and Analytic Tools</strong></h3><h4><i>IDEs/Editors</i></h4><p><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code"><br><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook"><br><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&amp;logo=pycharm&amp;logoColor=black&amp;color=black&amp;labelColor=green" alt="PyCharm"><br><img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&amp;logo=rstudio&amp;logoColor=white" alt="RStudio"></p><h4><i>Data Analytics and Visualizations</i></h4><p><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white" alt="Microsoft Excel"><br><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&amp;logo=Tableau&amp;logoColor=white" alt="Tableau"><br><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power Bi"></p><hr><h3><strong>Programming and Language Technologies</strong></h3><p><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"><br><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R"><br><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&amp;logo=latex&amp;logoColor=white" alt="LaTeX"><br><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown"></p><h4><i>Operating Systems</i></h4><p><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"><br><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu"></p></td><td><h3><strong>Developer Platforms and Community Engagement</strong></h3><h4><i>Coding Platforms</i></h4><p><a href="https://www.hackerrank.com/edaaydinea?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" alt="Hackerrank"></a><br><a href="https://leetcode.com/edaaydinea/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=#d16c06" alt="LeetCode"></a><br><a href="https://exercism.org/profiles/edaaydinea"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&amp;logo=exercism&amp;logoColor=white" alt="Exercism"></a><br><a href="https://www.codewars.com/users/edaaydinea"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&amp;logo=codewars&amp;logoColor=grey" alt="Codewars"></a></p><h4><i>Data Science and ML Competitions</i></h4><p><a href="https://www.kaggle.com/edaaydinea"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle"></a><br><a href="https://www.hackerearth.com/@edaaydinea"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&amp;style=for-the-badge&amp;logo=HackerEarth&amp;logoColor=Blue" alt="Hackerearth"></a></p><hr><h3><strong>Education</strong></h3><p><a href="https://www.coursera.org/learner/edaaydinea"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&amp;logo=Coursera&amp;logoColor=white" alt="Coursera"></a><br><a href="https://profile.edx.org/u/edaaydinea19"><img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&amp;logo=edX&amp;logoColor=white" alt="edX"></a><br><a href="https://www.duolingo.com/profile/edaaydin.ea"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&amp;logo=Duolingo&amp;logoColor=white" alt="Duolingo"></a></p></td></tr></tbody></table>
+---
+
+<table>
+<tbody>
+<tr>
+<td style="vertical-align: top; width: 259.167px;">
+<h3><strong>Frameworks, Platforms and Libraries</strong></h3>
+<p><strong>Artificial Intelligence</strong></p>
+<p><img src="https://camo.githubusercontent.com/ed07d0ca4fbdfff5cb61bd0bb754d421729d1ccbfc7fc431928b0038e9ccaea5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861744750542d3734616139633f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6169266c6f676f436f6c6f723d7768697465" alt="ChatGPT" /><br /><img src="https://camo.githubusercontent.com/a35f40f050e8d2fcc89346c24df157f06a079bd507c418d15eb96ad791f7b555/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f436f70696c6f742d3839353745353f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746875622d636f70696c6f74266c6f676f436f6c6f723d7768697465" alt="GitHub Copilot" /><br /><img src="https://camo.githubusercontent.com/84eae5b3079bc3f55098d9ae8ae05971abc1fc882dba5854dbff7e7e380ca5f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f6f676c6525323067656d696e692d3845373542323f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c6525323067656d696e69266c6f676f436f6c6f723d7768697465" alt="Google Gemini" /></p>
+<h4><em>Machine Learning, Deep Learning, Image Processing</em></h4>
+<p><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&amp;logo=anaconda&amp;logoColor=white" alt="Anaconda" /><br /><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" /></p>
+<p><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&amp;logo=Keras&amp;logoColor=white" alt="Keras" /><br /><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch" /><br /><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow" /><br /><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=blue" alt="mlflow" /></p>
+<p><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" /><br /><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" /><br /><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&amp;logo=scipy&amp;logoColor=%white" alt="SciPy" /><br /><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Plotly" /><br /><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&amp;logo=Matplotlib&amp;logoColor=black" alt="Matplotlib" /></p>
+<p><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn" /></p>
+<h4><em>Web Development</em></h4>
+<p><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&amp;logo=fastapi" alt="FastAPI" /></p>
+<p>&nbsp;</p>
+</td>
+<td style="vertical-align: top; width: 255.729px;">
+<p>&nbsp;</p>
+<h3><strong>Coding and Analytic Tools</strong></h3>
+<h4><em>IDEs/Editors</em></h4>
+<p><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code" /><br /><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook" /><br /><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&amp;logo=pycharm&amp;logoColor=black&amp;color=black&amp;labelColor=green" alt="PyCharm" /><br /><img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&amp;logo=rstudio&amp;logoColor=white" alt="RStudio" /></p>
+<h4><em>Data Analytics and Visualizations</em></h4>
+<p><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white" alt="Microsoft Excel" /><br /><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&amp;logo=Tableau&amp;logoColor=white" alt="Tableau" /><br /><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power Bi" /></p>
+<hr />
+<h3><strong>Programming and Language Technologies</strong></h3>
+<p><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python" /><br /><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R" /><br /><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&amp;logo=latex&amp;logoColor=white" alt="LaTeX" /><br /><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown" /></p>
+<h4><em>Operating Systems</em></h4>
+<p><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" /><br /><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu" /></p>
+</td>
+<td style="vertical-align: top; width: 264.306px;">
+<h3><strong>Developer Platforms and Community Engagement</strong></h3>
+<h4><em>Coding Platforms</em></h4>
+<p><a href="https://www.hackerrank.com/edaaydinea?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" alt="Hackerrank" /></a><br /><a href="https://leetcode.com/edaaydinea/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=#d16c06" alt="LeetCode" /></a><br /><a href="https://exercism.org/profiles/edaaydinea"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&amp;logo=exercism&amp;logoColor=white" alt="Exercism" /></a><br /><a href="https://www.codewars.com/users/edaaydinea"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&amp;logo=codewars&amp;logoColor=grey" alt="Codewars" /></a></p>
+<h4><em>Data Science and ML Competitions</em></h4>
+<p><a href="https://www.kaggle.com/edaaydinea"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle" /></a><br /><a href="https://www.hackerearth.com/@edaaydinea"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&amp;style=for-the-badge&amp;logo=HackerEarth&amp;logoColor=Blue" alt="Hackerearth" /></a></p>
+<hr />
+<h3><strong>Databases</strong></h3>
+<p><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" width="88" height="28" /><br /><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres" width="113" height="28" /><br /><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" width="93" height="28" /></p>
+</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edaaydinea/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/edaaydinea)  
-[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://edaaydinea.com/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eda@edaaydinea.com)
+<table><tbody><tr><td><a href="https://www.linkedin.com/in/edaaydinea/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></td><td><a href="https://www.kaggle.com/edaaydinea"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle"></a></td><td><a href="https://edaaydinea.com/"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&amp;logo=WordPress&amp;logoColor=white" alt="WordPress"></a></td><td><a href="mailto:eda@edaaydinea.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a></td></tr></tbody></table>
 
 ## Support me
 
