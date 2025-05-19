@@ -52,6 +52,7 @@ I'm a Data Analyst/Scientist, NLP - Generative AI - LLM - Prompt Engineer.
 
 ### 🌱 My latest projects
 
+* [Distinguishing Cognitive Reading States (Normal vs. Task-Specific Reading) using Advanced NLP and Machine Learning on the ZuCo 2.0 Dataset](https://github.com/edaaydinea/LLMAnalysisCognitiveStates) - Artificial Intelligence in Cognitive Neuroscience Research Project
 * [Optimization of Human Sensory Neuron Differentiation for Pain Research](https://github.com/edaaydinea/LifeArc_BiologyResearch) - LifeArc Biology Research Project
 * [Low-Grade Glioma Segmentation](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation) - Up School Capstone Research Project
 * [Prediction of the Different Progressive Levels of Alzheimer’s Disease with MRI data](https://github.com/edaaydinea/OP2-Prediction-of-the-Different-Progressive-Levels-of-Alzheimer-s-Disease-with-MRI-data) - Up School Optional Research Project
