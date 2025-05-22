@@ -16,9 +16,10 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 
 ### 💼 My Experience Journey
 
-* **Co-Founder, NLP - LLM Engineer, Cognitive Data Scientist** | _Data Lens Strategies_ (Jan 2025 - Present)
-* **AI Engineer** | _Upwork, Freelancer.com_ (Nov 2024 - Present)
-* **Coding Specialist in AI, NLP - Generative AI - LLM - Prompt Engineer** | _Outlier_ (Jul 2024 - Present)
+* **Co-Founder, AI & NLP Engineer, Cognitive Data Scientist** | _Data Lens Strategies_ (Jan 2025 - Present)
+* **AI Engineer & Data Scientist | NLP & LLM Specialist** | _Upwork, Freelancer.com_ (Nov 2024 - Present)
+* **AI Coding Specialist | NLP & Generative AI Engineer** | _Outlier_ (Nov 2024 - Present)
+* **Prompt Engineer | RAG & NLP Specialist** | _Outlier_ (Jul 2024 - Nov 2024)
 * [**Biyology Research Internship Program**](https://github.com/edaaydinea/LifeArc_BiologyResearch) | _Life Arc_ (Apr 2025 - May 2025)
 * [**Data Science & Analytics Internship Program**](https://github.com/edaaydinea/LloydsDataScienceAnalytics) | _Lloyds Banking Group_ (Mar 2025 - Apr 2025)
 * [**Data Science Virtual Intership Program**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_Qc5J6kzq88L9BDRGv_1740872118840_completion_certificate.pdf) | _Commonwealth Bank_ (Feb 2025 - Mar 2025)
@@ -52,7 +53,7 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 
 ### 🌱 My latest projects
 
-* [Distinguishing Cognitive Reading States (Normal vs. Task-Specific Reading) using Advanced NLP and Machine Learning on the ZuCo 2.0 Dataset](https://github.com/edaaydinea/LLMAnalysisCognitiveStates) - Artificial Intelligence in Cognitive Neuroscience Research Project
+* [Distinguishing Cognitive Reading States using Advanced NLP and Transformers](https://github.com/edaaydinea/LLMAnalysisCognitiveStates) - Artificial Intelligence in Cognitive Neuroscience Research Project
 * [Optimization of Human Sensory Neuron Differentiation for Pain Research](https://github.com/edaaydinea/LifeArc_BiologyResearch) - LifeArc Biology Research Project
 * [Low-Grade Glioma Segmentation](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation) - Up School Capstone Research Project
 * [Prediction of the Different Progressive Levels of Alzheimer’s Disease with MRI data](https://github.com/edaaydinea/OP2-Prediction-of-the-Different-Progressive-Levels-of-Alzheimer-s-Disease-with-MRI-data) - Up School Optional Research Project
