@@ -2,7 +2,7 @@
 
 I'm a self-taught woman engineer for artificial intelligence in healthcare.
 
-I'm a Data Analyst/Scientist, NLP - Generative AI - LLM - Prompt Engineer.
+I'm a NLP - LLM Engineer, Generative AI Data Scientist. 
 
 ### 🎓My Learning Journey
 
@@ -16,8 +16,8 @@ I'm a Data Analyst/Scientist, NLP - Generative AI - LLM - Prompt Engineer.
 
 ### 💼 My Experience Journey
 
-* **Data Scientist/Analyst** | _Turing_ (Jan 2025 - Present)
-* **Data Scientist/Analyst** | _Upwork, Freelancer.com_ (Nov 2024 - Present)
+* **Co-Founder, NLP - LLM Engineer, Cognitive Data Scientist** | _Data Lens Strategies_ (Jan 2025 - Present)
+* **AI Engineer** | _Upwork, Freelancer.com_ (Nov 2024 - Present)
 * **Coding Specialist in AI, NLP - Generative AI - LLM - Prompt Engineer** | _Outlier_ (Jul 2024 - Present)
 * [**Biyology Research Internship Program**](https://github.com/edaaydinea/LifeArc_BiologyResearch) | _Life Arc_ (Apr 2025 - May 2025)
 * [**Data Science & Analytics Internship Program**](https://github.com/edaaydinea/LloydsDataScienceAnalytics) | _Lloyds Banking Group_ (Mar 2025 - Apr 2025)
