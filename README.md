@@ -6,7 +6,6 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 
 ### 🎓My Learning Journey
 
-* [MSc. in Data Science - University of Colorado Boulder](https://www.colorado.edu/program/data-science/coursera-overview) (On Hold)
 * Micro Master in Machine Learning, Neural Engineering - Colombia University ('24) (Graduated with honors)
 * [Google Associate Cloud Engineer Certificate Programme](https://www.upschool.io/google-cloud-data-engineer-programme) ('24)
 * [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
@@ -16,7 +15,7 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 
 ### 💼 My Experience Journey
 
-* **Co-Founder, AI & NLP Engineer, Cognitive Data Scientist** | _Data Lens Strategies_ (Jan 2025 - Present)
+* **AI & NLP Engineer, Cognitive Data Scientist** | _Data Lens Strategies_ (Jan 2025 - Present)
 * **AI Engineer & Data Scientist | NLP & LLM Specialist** | _Upwork, Freelancer.com_ (Nov 2024 - Present)
 * **AI Coding Specialist | NLP & Generative AI Engineer** | _Outlier_ (Nov 2024 - Present)
 * **Prompt Engineer | RAG & NLP Specialist** | _Outlier_ (Jul 2024 - Nov 2024)
