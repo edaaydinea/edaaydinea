@@ -15,7 +15,6 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 
 ### 💼 My Experience Journey
 
-* **AI & NLP Engineer, Cognitive Data Scientist** | _Data Lens Strategies_ (Jan 2025 - Present)
 * **AI Engineer & Data Scientist | NLP & LLM Specialist** | _Upwork, Freelancer.com_ (Nov 2024 - Present)
 * **AI Coding Specialist | NLP & Generative AI Engineer** | _Outlier_ (Nov 2024 - Present)
 * **Prompt Engineer | RAG & NLP Specialist** | _Outlier_ (Jul 2024 - Nov 2024)
