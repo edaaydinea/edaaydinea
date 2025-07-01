@@ -6,7 +6,7 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 
 ### 🎓My Learning Journey
 
-* Micro Master in Machine Learning, Neural Engineering - Colombia University ('24) (Graduated with honors)
+* Micro Master in Machine Learning, Neural Engineering - Columbia University ('24) (Graduated with honors)
 * [Google Associate Cloud Engineer Certificate Programme](https://www.upschool.io/google-cloud-data-engineer-programme) ('24)
 * [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
 * [Neurotechnology Spring School 2022, Neurobiology and Neurosciences](https://www.gtec.at/spring-school-2022/) ('22)
@@ -18,13 +18,13 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 * **AI Engineer & Data Scientist | NLP & LLM Specialist** | _Upwork, Freelancer.com_ (Nov 2024 - Present)
 * **AI Coding Specialist | NLP & Generative AI Engineer** | _Outlier_ (Nov 2024 - Present)
 * **Prompt Engineer | RAG & NLP Specialist** | _Outlier_ (Jul 2024 - Nov 2024)
-* [**Biyology Research Internship Program**](https://github.com/edaaydinea/LifeArc_BiologyResearch) | _Life Arc_ (Apr 2025 - May 2025)
+* [**Biology Research Internship Program**](https://github.com/edaaydinea/LifeArc_BiologyResearch) | _Life Arc_ (Apr 2025 - May 2025)
 * [**Data Science & Analytics Internship Program**](https://github.com/edaaydinea/LloydsDataScienceAnalytics) | _Lloyds Banking Group_ (Mar 2025 - Apr 2025)
-* [**Data Science Virtual Intership Program**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_Qc5J6kzq88L9BDRGv_1740872118840_completion_certificate.pdf) | _Commonwealth Bank_ (Feb 2025 - Mar 2025)
-* [**Data Visualization: Empowering Business with Effective Insights Virtual Intership Program**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_Qc5J6kzq88L9BDRGv_1740414093554_completion_certificate.pdf) | _TATA_ (Feb 2025)
+* [**Data Science Virtual Internship Program**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_Qc5J6kzq88L9BDRGv_1740872118840_completion_certificate.pdf) | _Commonwealth Bank_ (Feb 2025 - Mar 2025)
+* [**Data Visualization: Empowering Business with Effective Insights Virtual Internship Program**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_Qc5J6kzq88L9BDRGv_1740414093554_completion_certificate.pdf) | _TATA_ (Feb 2025)
 * [**Data Analytics Virtual Internship Program**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Qc5J6kzq88L9BDRGv_1740000262094_completion_certificate.pdf) | _Deloitte_ (Feb 2025)
-* [**NLP - GenAI Virtual Internship Program**](https://github.com/edaaydinea/BCGxGENAI) | _Boston Consolting Group_ (Feb 2025)
-* [**Data Science Virtual Internship Program**](https://github.com/edaaydinea/BCGxDataScience/tree/main) | _Boston Consulting Group_  (Feb 2025)
+* [**NLP - GenAI Virtual Internship Program**](https://github.com/edaaydinea/BCGxGENAI) | _Boston Consulting Group (BCG)_ (Feb 2025)
+* [**Data Science Virtual Internship Program**](https://github.com/edaaydinea/BCGxDataScience/tree/main) | _Boston Consulting Group (BCG)_  (Feb 2025)
 * [**Data Analytics Virtual Internship Program**](https://github.com/edaaydinea/quantiumDataAnalytics/tree/main) | _Quantium_ (Feb 2025)
 * [**Data Science Virtual Internship Program**](https://github.com/edaaydinea/BritishAirwaysDataScience/tree/main) | _British Airways_ (Jan 2025 - Feb 2025)
 * [**Power BI Virtual Internship Program**](https://github.com/edaaydinea/PwCSwitzerland_PowerBI/tree/main) - _PwC Switzerland_ (Jan 2025)
