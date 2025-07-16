@@ -9,12 +9,14 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 * Micro Master in Machine Learning, Neural Engineering - Columbia University ('24) (Graduated with honors)
 * [Google Associate Cloud Engineer Certificate Programme](https://www.upschool.io/google-cloud-data-engineer-programme) ('24)
 * [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
+* Micro Bachelors in Neuroscience - Harvard University ('22)
 * [Neurotechnology Spring School 2022, Neurobiology and Neurosciences](https://www.gtec.at/spring-school-2022/) ('22)
 * Micro Master in Artificial Intelligence - Colombia University ('21)
 * Bachelor of Engineering in Computer Engineering - Altınbaş University ('19)
 
 ### 💼 My Experience Journey
 
+* **Founder & AI Researcher** | _NeuroQuantix_ (Jul 2024 - Present)
 * **AI Engineer & Data Scientist | NLP & LLM Specialist** | _Upwork, Freelancer.com_ (Nov 2024 - Present)
 * **AI Coding Specialist | NLP & Generative AI Engineer** | _Outlier_ (Nov 2024 - Present)
 * **Prompt Engineer | RAG & NLP Specialist** | _Outlier_ (Jul 2024 - Nov 2024)
