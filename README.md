@@ -6,19 +6,14 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 
 ### 🎓My Learning Journey
 
-* [Google Associate Cloud Engineer Certificate Programme](https://www.upschool.io/google-cloud-data-engineer-programme) ('24)
-* [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
-* XSeries Program in Neuroscience - Harvard University ('22)
-* [Neurotechnology Spring School 2022, Neurobiology and Neurosciences](https://www.gtec.at/spring-school-2022/) ('22)
 * Micro Master in Artificial Intelligence - Colombia University ('21)
 * Bachelor of Engineering in Computer Engineering - Altınbaş University ('19)
 
 ### 💼 My Experience Journey
 
-* **Founder & AI Researcher** | _NeuroQuantix_ (Jul 2024 - Present)
-* **AI Engineer & Data Scientist | NLP & LLM Specialist** | _Upwork, Freelancer.com_ (Nov 2024 - Present)
-* **AI Coding Specialist | NLP & Generative AI Engineer** | _Outlier_ (Nov 2024 - Present)
-* **Prompt Engineer | RAG & NLP Specialist** | _Outlier_ (Jul 2024 - Nov 2024)
+* **Founder & AI Researcher** | _NeuroQuantix_ (Jan 2024 - Present)
+* **AI Coding Specialist | NLP Engineer** | _Outlier_ (Nov 2024 - Present)
+* **Prompt Engineer** | _Outlier_ (Jul 2024 - Nov 2024)
 * **Graduate Research Student in Computational Neuroscience & Neurodegenerative Diseases** | _Neural AI Integration Research Lab_ (Feb 2023 - Jul 2024)
 * **Analytics/NLP Engineer** | _hevi.ai_ (May 2023 - Jun 2024)
 * **Data Mining Analyst** | _AYA: Açık Yazılım Ağı_ (Feb 2023 - May 2023)
@@ -65,11 +60,7 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 
 ### 🏆My Latest Certifications
 
-* 🆕[IBM Machine Learning Specialist Advanced Badge](https://www.credly.com/badges/f83e64ac-6dd9-4863-bb56-598df68a52fd/public_url) - Jan 2025
-* 🆕[Statistical Foundations Professional Certificate by Wolfram Research](https://www.linkedin.com/learning/certificates/634bdfd33c06cee240f49efad4b1683f87d3d03e447a9f2c8964637f453a4108?trk=share_certificate) - Jan 2025
-* 🆕[Become a Power BI Specialist](https://www.linkedin.com/learning/certificates/78851c026f9e619b7626a56275e25ac154a3633ac3262f1e95184df0a1ba0256) - Jan 2025
-* 🆕[Develop Your Tableau Skills](https://www.linkedin.com/learning/certificates/05534f41e8b9c672362b9856ef809d36eb17ed890bde8b2f9e753803e1c7cd0c) - Jan 2025
-* [Master the Concepts of Data Visualization and Storytelling](https://www.linkedin.com/learning/certificates/c375d134838309be5f4358cf076e64cf33386d4deb009fe45586f81120868050) - November 2024
+* [IBM Machine Learning Specialist Advanced Badge](https://www.credly.com/badges/f83e64ac-6dd9-4863-bb56-598df68a52fd/public_url) - Jan 2025
 * [AI for Healthcare Specialization](https://coursera.org/share/100ff7a2f8331292b486d5aa677f82e5) - October 2024
   * [Transcript](https://github.com/edaaydinea/AIinHealthcare/blob/main/transcript.pdf)
 * [Computational Neuroscience](https://coursera.org/share/e8e1feb716da218f96458f0d551319d5) - September 2024
