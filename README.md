@@ -6,7 +6,6 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 
 ### 🎓My Learning Journey
 
-* Micro Master in Machine Learning, Neural Engineering - Columbia University ('24)
 * [Google Associate Cloud Engineer Certificate Programme](https://www.upschool.io/google-cloud-data-engineer-programme) ('24)
 * [Google Machine Learning Program (In partnership with Up School and Google Developers)](https://www.upschool.io/google-ml-program%C4%B1) ('23)
 * XSeries Program in Neuroscience - Harvard University ('22)
