@@ -14,17 +14,14 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 * **Founder & AI Researcher** | _NeuroQuantix_ (Jan 2024 - Present)
 * **AI Coding Specialist | NLP Engineer** | _Outlier_ (Nov 2024 - Present)
 * **Prompt Engineer** | _Outlier_ (Jul 2024 - Nov 2024)
-* **Graduate Research Student in Computational Neuroscience & Neurodegenerative Diseases** | _Neural AI Integration Research Lab_ (Feb 2023 - Jul 2024)
-* **Analytics/NLP Engineer** | _hevi.ai_ (May 2023 - Jun 2024)
-* **Data Mining Analyst** | _AYA: Açık Yazılım Ağı_ (Feb 2023 - May 2023)
-* **ML & Deep Learning Engineer** | _UpSchool_ (Jul 2022 - Jan 2023)
-* **Graduate Research Student in Traumatic Brain Injury** | _Wicking Dementia Research & Education Centre_ (Mar 2022 - Aug 2022)
-* **Graduate Research Student in Dementia** | _Wicking Dementia Research & Education Centre_ (Feb 2022 - Jul 2022)
-* **Graduate Research Student in Multiple Sclerosis** | _Menzies Institute for Medical Research_ (Sep 2021 - Feb 2022)
-* **Machine Learning Project Team Lead** | _Kodluyoruz_ (Sep 2021 - Nov 2021)
-* **Summer Research Student in ML and Neuroscience** | _Center of Brains, Minds, and Machines_ (Aug 2021 - Sep 2021)
-* **Data Scientist** | _UNDP_ (Mar 2020 - Sep 2020)
+* **NLP Engineer** | _hevi.ai_ (May 2023 - Jun 2024)
+* **Google Associate Cloud Engineer Apprentice ** | _UpSchool & Google Developers_ (Spe 20223 - Jan 2024)
+* **ML & Deep Learning Engineer Apprentice** | _UpSchool & Google Developers_ (Jul 2022 - Jan 2023)
 * **Artificial Intelligence Engineer**(Internship) | _Coff R&D_ (Jan 2019 - Sep 2019)
+
+### Volunteer Experience
+
+* **Data Mining Analyst** | _AYA: Açık Yazılım Ağı_ (Feb 2023 - May 2023)
 
 ### My Virtual Internship Journey
 
