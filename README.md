@@ -38,12 +38,12 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 
 ### 👷 Check out what I'm currently working on
 
-* [Predictive Modeling of Multiple Sclerosis Risk in CIS Patients](https://github.com/edaaydinea/Predictive-Modeling-of-Multiple-Sclerosis-Risk-in-CIS-Patients) - Graduate Research Project
-* [Predictive Modeling of Alzheimer's Disease Using Cross-Sectional and Longitudinal MRI Data](https://github.com/edaaydinea/Predictive-Modeling-of-Alzheimer-Disease) - Graduate Research Project
-* [Predictive Modeling of Traumatic Brain Injury](https://github.com/edaaydinea/Predictive-Modeling-of-Traumatic-Brain-Injury) - Graduate Research Project
-* EEG-Based Epileptic Seizure Detection Using Machine Learning Techniques - Graduate Research Project
-* Investigating Corollary Discharge Mechanisms in Schizoprenia Using EEG Data - Graduate Research Project
-* Electrophysiological Correlated of Cognitive Task Performance: Analyzing MSIT+, Oddball, and SRT Tasks - Graduate Research Project
+* [Predictive Modeling of Multiple Sclerosis Risk in CIS Patients](https://github.com/edaaydinea/Predictive-Modeling-of-Multiple-Sclerosis-Risk-in-CIS-Patients) 
+* [Predictive Modeling of Alzheimer's Disease Using Cross-Sectional and Longitudinal MRI Data](https://github.com/edaaydinea/Predictive-Modeling-of-Alzheimer-Disease) 
+* [Predictive Modeling of Traumatic Brain Injury](https://github.com/edaaydinea/Predictive-Modeling-of-Traumatic-Brain-Injury) 
+* EEG-Based Epileptic Seizure Detection Using Machine Learning Techniques
+* Investigating Corollary Discharge Mechanisms in Schizoprenia Using EEG Data 
+* Electrophysiological Correlated of Cognitive Task Performance: Analyzing MSIT+, Oddball, and SRT Tasks
 
 ### 🌱 My latest projects
 
