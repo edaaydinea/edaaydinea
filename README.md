@@ -18,6 +18,7 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 * **NLP Engineer** | _hevi.ai_ (May 2023 - Jun 2024)
 * **Google Associate Cloud Engineer Apprentice** | _UpSchool & Google Developers_ (Sep 20223 - Jan 2024)
 * **ML & Deep Learning Engineer Apprentice** | _UpSchool & Google Developers_ (Jul 2022 - Jan 2023)
+* **Machine Learning Project Team Lead** | _Kodluyoruz_ (Sep 2021 - Nov 2021)
 * **Artificial Intelligence Engineer**(Internship) | _Coff R&D_ (Jan 2019 - Sep 2019)
 
 ### Volunteer Experience
