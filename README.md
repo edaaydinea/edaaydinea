@@ -6,6 +6,7 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 
 ### 🎓My Learning Journey
 
+* XSeries Certificate Program in Fundamentals Neuroscience - Harvard University ('22)
 * Micro Master in Artificial Intelligence - Colombia University ('21)
 * Bachelor of Engineering in Computer Engineering - Altınbaş University ('19)
 
