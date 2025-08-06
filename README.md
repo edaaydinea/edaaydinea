@@ -12,7 +12,7 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 
 ### 💼 My Experience Journey
 
-* **Founder & AI Researcher** | _NeuroQuantix_ (Jan 2024 - Present)
+* **Founder & AI Researcher** | _NeuroQuantix_ (Jan 2025 - Present)
 * **AI Coding Specialist | NLP Engineer** | _Outlier_ (Nov 2024 - Present)
 * **Prompt Engineer** | _Outlier_ (Jul 2024 - Nov 2024)
 * **NLP Engineer** | _hevi.ai_ (May 2023 - Jun 2024)
