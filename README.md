@@ -6,13 +6,15 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 
 ### 🎓My Learning Journey
 
-* XSeries Certificate Program in Fundamentals Neuroscience - Harvard University ('22)
-* Micro Master in Artificial Intelligence - Colombia University ('21)
-* Bachelor of Engineering in Computer Engineering - Altınbaş University ('19)
+* Nanodegree Program in Future AWS AI Engineer – Udacity (Full Scholarship from AWS) (Aug 2025 – Nov 2025)
+* XSeries Certificate Program in Fundamentals of Neuroscience – Harvard University (Sep 2021 – Aug 2022)
+* MicroMasters in Artificial Intelligence – Columbia University (Sep 2020 – Aug 2021)
+* Nanodegree Program in AI Product Manager – Udacity (Full Scholarship from Bertelsmann) (Dec 2020 – Jul 2021)
+* Bachelor of Engineering in Computer Engineering – Altınbaş University (Sep 2014 – Aug 2019)
 
 ### 💼 My Experience Journey
 
-* **Founder & AI Research Engineer - Cognitive AI Scientist** | _NeuroQuantix_ (Jan 2025 - Present)
+* **Founder & AI Research Engineer in Neuroscience** | _NeuroQuantix_ (Jan 2025 - Present)
 * **AI Coding Specialist | NLP Engineer** | _Outlier_ (Nov 2024 - Present)
 * **Prompt Engineer** | _Outlier_ (Jul 2024 - Nov 2024)
 * **NLP Engineer** | _hevi.ai_ (May 2023 - Jun 2024)
@@ -38,11 +40,16 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 * [**Data Science Virtual Internship Program**](https://github.com/edaaydinea/BritishAirwaysDataScience/tree/main) | _British Airways_ (Jan 2025 - Feb 2025)
 * [**Power BI Virtual Internship Program**](https://github.com/edaaydinea/PwCSwitzerland_PowerBI/tree/main) - _PwC Switzerland_ (Jan 2025)
 
-### 👷 Check out what I'm currently working on
+### 👷 What I'm currently working on
 
-* [Predictive Modeling of Multiple Sclerosis Risk in CIS Patients](https://github.com/edaaydinea/Predictive-Modeling-of-Multiple-Sclerosis-Risk-in-CIS-Patients) 
-* [Predictive Modeling of Alzheimer's Disease Using Cross-Sectional and Longitudinal MRI Data](https://github.com/edaaydinea/Predictive-Modeling-of-Alzheimer-Disease) 
-* [Predictive Modeling of Traumatic Brain Injury](https://github.com/edaaydinea/Predictive-Modeling-of-Traumatic-Brain-Injury) 
+* Predictive Modeling of Multiple Sclerosis Risk in CIS Patients
+* CogniQuery: EEG Signal Processing and Classification for a Brain-Computer Interface
+
+### 🤖 What I will work on
+
+* Predictive Modeling of Multiple Sclerosis Risk in CIS Patients
+* Predictive Modeling of Alzheimer's Disease Using Cross-Sectional and Longitudinal MRI Data 
+* Predictive Modeling of Traumatic Brain Injury
 * EEG-Based Epileptic Seizure Detection Using Machine Learning Techniques
 * Investigating Corollary Discharge Mechanisms in Schizoprenia Using EEG Data 
 * Electrophysiological Correlated of Cognitive Task Performance: Analyzing MSIT+, Oddball, and SRT Tasks
