@@ -9,8 +9,8 @@ I'm a AI Research Engineer in Neuroscience, NLP - LLM Engineer, Cognitive Data S
 | Program / Degree                                            | Institution         | Scholarship / Notes               | Duration            |
 |-------------------------------------------------------------|---------------------|-----------------------------------|---------------------|
 | Nanodegree Program in Future AWS AI Engineer                | Udacity             | Full Scholarship from AWS         | Aug 2025 – Nov 2025 |
-| XSeries Certificate Program in Fundamentals of Neuroscience | Harvard University  | —                                 | Sep 2021 – Aug 2022 |
-| MicroMasters in Artificial Intelligence                     | Columbia University | —                                 | Sep 2020 – Aug 2021 |
+| XSeries Certificate Program in Fundamentals of Neuroscience | Harvard University  | 90% Scholarship                   | Sep 2021 – Aug 2022 |
+| MicroMasters in Artificial Intelligence                     | Columbia University | 90% Scholarship                   | Sep 2020 – Aug 2021 |
 | Nanodegree Program in AI Product Manager                    | Udacity             | Full Scholarship from Bertelsmann | Dec 2020 – Jul 2021 |
 | Bachelor of Engineering in Computer Engineering             | Altınbaş University | Full Scholarship                  | Sep 2014 – Aug 2019 |
 
