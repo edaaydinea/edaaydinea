@@ -1,83 +1,94 @@
-### Eda AYDIN
+
+# Eda AYDIN
 
 I'm a self-taught woman engineer for artificial intelligence in healthcare.
 
-I'm a NLP - LLM Engineer, Generative AI Data Scientist. 
+I'm a AI Research Engineer in Neuroscience, NLP - LLM Engineer, Cognitive Data Scientist. 
 
-### 🎓My Learning Journey
+### Education
 
-* Nanodegree Program in Future AWS AI Engineer – Udacity (Full Scholarship from AWS) (Aug 2025 – Nov 2025)
-* XSeries Certificate Program in Fundamentals of Neuroscience – Harvard University (Sep 2021 – Aug 2022)
-* MicroMasters in Artificial Intelligence – Columbia University (Sep 2020 – Aug 2021)
-* Nanodegree Program in AI Product Manager – Udacity (Full Scholarship from Bertelsmann) (Dec 2020 – Jul 2021)
-* Bachelor of Engineering in Computer Engineering – Altınbaş University (Sep 2014 – Aug 2019)
+| Program / Degree                                      | Institution          | Scholarship / Notes              | Duration             |
+|-------------------------------------------------------|---------------------|----------------------------------|----------------------|
+| Nanodegree Program in Future AWS AI Engineer          | Udacity             | Full Scholarship from AWS        | Aug 2025 – Nov 2025 |
+| XSeries Certificate Program in Fundamentals of Neuroscience | Harvard University | —                                | Sep 2021 – Aug 2022 |
+| MicroMasters in Artificial Intelligence               | Columbia University | —                                | Sep 2020 – Aug 2021 |
+| Nanodegree Program in AI Product Manager              | Udacity             | Full Scholarship from Bertelsmann| Dec 2020 – Jul 2021 |
+| Bachelor of Engineering in Computer Engineering       | Altınbaş University | —                                | Sep 2014 – Aug 2019 |
 
-### 💼 My Experience Journey
 
-* **Founder & AI Research Engineer in Neuroscience** | _NeuroQuantix_ (Jan 2025 - Present)
-* **AI Coding Specialist | NLP Engineer** | _Outlier_ (Nov 2024 - Present)
-* **Prompt Engineer** | _Outlier_ (Jul 2024 - Nov 2024)
-* **NLP Engineer** | _hevi.ai_ (May 2023 - Jun 2024)
-* **Google Associate Cloud Engineer Apprentice** | _UpSchool & Google Developers_ (Sep 20223 - Jan 2024)
-* **ML & Deep Learning Engineer Apprentice** | _UpSchool & Google Developers_ (Jul 2022 - Jan 2023)
-* **Machine Learning Project Team Lead** | _Kodluyoruz_ (Sep 2021 - Nov 2021)
-* **Artificial Intelligence Engineer**(Internship) | _Coff R&D_ (Jan 2019 - Sep 2019)
+### Experience
+
+| Role / Title                                | Organization                     | Duration             |
+|---------------------------------------------|----------------------------------|----------------------|
+| Founder & AI Research Engineer in Neuroscience | NeuroQuantix                   | Jan 2025 – Present   |
+| AI Coding Specialist \| NLP Engineer        | Outlier                         | Nov 2024 – Present   |
+| Prompt Engineer                             | Outlier                         | Jul 2024 – Nov 2024 |
+| NLP Engineer                                | hevi.ai                         | May 2023 – Jun 2024 |
+| Google Associate Cloud Engineer Apprentice  | UpSchool & Google Developers    | Sep 2023 – Jan 2024 |
+| ML & Deep Learning Engineer Apprentice      | UpSchool & Google Developers    | Jul 2022 – Jan 2023 |
+| Machine Learning Project Team Lead          | Kodluyoruz                      | Sep 2021 – Nov 2021 |
+| Artificial Intelligence Engineer (Internship) | Coff R&D                      | Jan 2019 – Sep 2019 |
+
 
 ### Volunteer Experience
 
-* **Data Mining Analyst** | _AYA: Açık Yazılım Ağı_ (Feb 2023 - May 2023)
+| Role / Title        | Organization           | Duration            |
+|---------------------|-----------------------|---------------------|
+| Data Mining Analyst | AYA: Açık Yazılım Ağı | Feb 2023 – May 2023 |
+
 
 ### My Virtual Internship Journey
 
-* [**Biology Research Internship Program**](https://github.com/edaaydinea/LifeArc_BiologyResearch) | _Life Arc_ (Apr 2025 - May 2025)
-* [**Data Science & Analytics Internship Program**](https://github.com/edaaydinea/LloydsDataScienceAnalytics) | _Lloyds Banking Group_ (Mar 2025 - Apr 2025)
-* [**Data Science Virtual Internship Program**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_Qc5J6kzq88L9BDRGv_1740872118840_completion_certificate.pdf) | _Commonwealth Bank_ (Feb 2025 - Mar 2025)
-* [**Data Visualization: Empowering Business with Effective Insights Virtual Internship Program**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_Qc5J6kzq88L9BDRGv_1740414093554_completion_certificate.pdf) | _TATA_ (Feb 2025)
-* [**Data Analytics Virtual Internship Program**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Qc5J6kzq88L9BDRGv_1740000262094_completion_certificate.pdf) | _Deloitte_ (Feb 2025)
-* [**NLP - GenAI Virtual Internship Program**](https://github.com/edaaydinea/BCGxGENAI) | _Boston Consulting Group (BCG)_ (Feb 2025)
-* [**Data Science Virtual Internship Program**](https://github.com/edaaydinea/BCGxDataScience/tree/main) | _Boston Consulting Group (BCG)_  (Feb 2025)
-* [**Data Analytics Virtual Internship Program**](https://github.com/edaaydinea/quantiumDataAnalytics/tree/main) | _Quantium_ (Feb 2025)
-* [**Data Science Virtual Internship Program**](https://github.com/edaaydinea/BritishAirwaysDataScience/tree/main) | _British Airways_ (Jan 2025 - Feb 2025)
-* [**Power BI Virtual Internship Program**](https://github.com/edaaydinea/PwCSwitzerland_PowerBI/tree/main) - _PwC Switzerland_ (Jan 2025)
+| Program | Organization | Duration | Link |
+|---------|--------------|----------|------|
+| Biology Research Internship Program | Life Arc | Apr 2025 – May 2025 | [GitHub](https://github.com/edaaydinea/LifeArc_BiologyResearch) |
+| Data Science & Analytics Internship Program | Lloyds Banking Group | Mar 2025 – Apr 2025 | [GitHub](https://github.com/edaaydinea/LloydsDataScienceAnalytics) |
+| Data Science Virtual Internship Program | Commonwealth Bank | Feb 2025 – Mar 2025 | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_Qc5J6kzq88L9BDRGv_1740872118840_completion_certificate.pdf) |
+| Data Visualization: Empowering Business with Effective Insights | TATA | Feb 2025 | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_Qc5J6kzq88L9BDRGv_1740414093554_completion_certificate.pdf) |
+| Data Analytics Virtual Internship Program | Deloitte | Feb 2025 | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Qc5J6kzq88L9BDRGv_1740000262094_completion_certificate.pdf) |
+| NLP - GenAI Virtual Internship Program | Boston Consulting Group (BCG) | Feb 2025 | [GitHub](https://github.com/edaaydinea/BCGxGENAI) |
+| Data Science Virtual Internship Program | Boston Consulting Group (BCG) | Feb 2025 | [GitHub](https://github.com/edaaydinea/BCGxDataScience/tree/main) |
+| Data Analytics Virtual Internship Program | Quantium | Feb 2025 | [GitHub](https://github.com/edaaydinea/quantiumDataAnalytics/tree/main) |
+| Data Science Virtual Internship Program | British Airways | Jan 2025 – Feb 2025 | [GitHub](https://github.com/edaaydinea/BritishAirwaysDataScience/tree/main) |
+| Power BI Virtual Internship Program | PwC Switzerland | Jan 2025 | [GitHub](https://github.com/edaaydinea/PwCSwitzerland_PowerBI/tree/main) |
 
-### 👷 What I'm currently working on
+### Research & Projects
 
-* Predictive Modeling of Multiple Sclerosis Risk in CIS Patients
-* CogniQuery: EEG Signal Processing and Classification for a Brain-Computer Interface
+| Project | Description | Status | Link |
+|---------|-------------|--------|------|
+| Predictive Modeling of Multiple Sclerosis Risk in CIS Patients | Clinical AI Research | 🟡 Ongoing | — |
+| CogniQuery: EEG Signal Processing and Classification for a Brain-Computer Interface | BCI Award 2025 | 🟡 Ongoing | — |
+| Distinguishing Cognitive Reading States using Advanced NLP and Transformers | AI in Cognitive Neuroscience Research Project | ✅ Completed | [GitHub](https://github.com/edaaydinea/LLMAnalysisCognitiveStates) |
+| Optimization of Human Sensory Neuron Differentiation for Pain Research | LifeArc Biology Research Project | ✅ Completed | [GitHub](https://github.com/edaaydinea/LifeArc_BiologyResearch) |
+| Low-Grade Glioma Segmentation | Up School Capstone Research Project | ✅ Completed | [GitHub](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation) |
+| Prediction of the Progressive Levels of Alzheimer’s Disease with MRI data | Up School Optional Research Project | ✅ Completed | [GitHub](https://github.com/edaaydinea/OP2-Prediction-of-the-Different-Progressive-Levels-of-Alzheimer-s-Disease-with-MRI-data) |
+| Personalized Medicine: Redefining Cancer Treatment | Healthcare AI Program Final Project | ✅ Completed | [GitHub](https://github.com/edaaydinea/personalized-medicine-redefining-cancer-treatment) |
+| Estimating the Probability of Confirmed COVID-19 Cases in ICU | Data Science for the Public Good Capstone Project | ✅ Completed | [GitHub](https://github.com/edaaydinea/Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU-) |
+| Pneumonia Detection on Chest X-ray Images with Deep Learning (Keras) | Data Science for the Public Good Capstone Project | ✅ Completed | [GitHub](https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning) |
 
-### 🤖 What I will work on
+### Achievements
 
-* Predictive Modeling of Multiple Sclerosis Risk in CIS Patients
-* Predictive Modeling of Alzheimer's Disease Using Cross-Sectional and Longitudinal MRI Data 
-* Predictive Modeling of Traumatic Brain Injury
-* EEG-Based Epileptic Seizure Detection Using Machine Learning Techniques
-* Investigating Corollary Discharge Mechanisms in Schizoprenia Using EEG Data 
-* Electrophysiological Correlated of Cognitive Task Performance: Analyzing MSIT+, Oddball, and SRT Tasks
+* Awarded an *AWS AI & ML Scholarship* for _“Future AWS AI Engineer” Nanodegree program_ after placing in the *top 3%* of a global pool of 50,000 participants.
+* Achieved a 94% score on the *IBM Advanced Machine Learning Specialist Exam*.
+* Awarded 8th out of 64 global participants, *(top 12%)* in the _Google ML Olympiad 2023_ Breast Cancer Diagnosis Competition 
+* Awarded a *Bertelsmann Technology Scholarship* for the _Udacity AI Product Manager program_ after placing in the *top 10%* of an initial 50.000 participant challenge.
 
-### 🌱 My latest projects
+### My Latest Certifications
 
-* [Distinguishing Cognitive Reading States using Advanced NLP and Transformers](https://github.com/edaaydinea/LLMAnalysisCognitiveStates) - Artificial Intelligence in Cognitive Neuroscience Research Project
-* [Optimization of Human Sensory Neuron Differentiation for Pain Research](https://github.com/edaaydinea/LifeArc_BiologyResearch) - LifeArc Biology Research Project
-* [Low-Grade Glioma Segmentation](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation) - Up School Capstone Research Project
-* [Prediction of the Different Progressive Levels of Alzheimer’s Disease with MRI data](https://github.com/edaaydinea/OP2-Prediction-of-the-Different-Progressive-Levels-of-Alzheimer-s-Disease-with-MRI-data) - Up School Optional Research Project
-* [Personalized Medicine: Redefining Cancer Treatment](https://github.com/edaaydinea/personalized-medicine-redefining-cancer-treatment) - Healthcare - Artificial Intelligence Program Final Project
-* [Estimating the Probability of Confirmed COVID-19 Cases Taken into the Intensive Care Unit (ICU)](https://github.com/edaaydinea/Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU-) - Data Science for the Public Good Program Capstone Project
-* [Pneumonia Detection on Chest X-ray Images with Deep Learning (Keras)](https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning) - Data Science for the Public Good Program Capstone Project
+| Certification | Issuer / Platform | Date | Link |
+|---------------|------------------|------|------|
+| IBM Machine Learning Specialist Advanced Badge | IBM / Credly | Jan 2025 | [Certificate](https://www.credly.com/badges/f83e64ac-6dd9-4863-bb56-598df68a52fd/public_url) |
+| AI for Healthcare Specialization | DeepLearning.AI / Coursera | Oct 2024 | [Certificate](https://coursera.org/share/100ff7a2f8331292b486d5aa677f82e5) · [Transcript](https://github.com/edaaydinea/AIinHealthcare/blob/main/transcript.pdf) |
+| Computational Neuroscience | University of Washington / Coursera | Sep 2024 | [Certificate](https://coursera.org/share/e8e1feb716da218f96458f0d551319d5) |
+| Machine Learning Engineering for Production Specialization | DeepLearning.AI / Coursera | Sep 2024 | [Certificate](https://coursera.org/share/392eba91eb13781461b26a0a46a815cb) |
+| Machine Learning Specialization | Stanford / Coursera | Sep 2024 | [Certificate](https://coursera.org/share/dcfebcc8d3b0bbce7199ded9e9311198) |
+| TensorFlow Developer Certificate | TensorFlow | Dec 2022 | [Certificate](https://www.credential.net/dc1e1d4c-0b56-4c66-8efe-62b8532ef2e4#gs.k32wiw) |
+| TensorFlow Developer Professional Certificate | DeepLearning.AI / Coursera | Dec 2022 | [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CVQYVGSZFQL8) |
+| Deep Learning Specialization | DeepLearning.AI / Coursera | Nov 2022 | [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/VRNVSWB69V2Z) |
+| Fundamentals of Neuroscience XSeries Program | Harvard University / edX | May 2022 | [Certificate](https://credentials.edx.org/credentials/fbc7d2e3e643452a8e84be9b20fee495/) |
 
-### 🏆My Latest Certifications
 
-* [IBM Machine Learning Specialist Advanced Badge](https://www.credly.com/badges/f83e64ac-6dd9-4863-bb56-598df68a52fd/public_url) - Jan 2025
-* [AI for Healthcare Specialization](https://coursera.org/share/100ff7a2f8331292b486d5aa677f82e5) - October 2024
-  * [Transcript](https://github.com/edaaydinea/AIinHealthcare/blob/main/transcript.pdf)
-* [Computational Neuroscience](https://coursera.org/share/e8e1feb716da218f96458f0d551319d5) - September 2024
-* [Machine Learning Engineering for Production Specialization](https://coursera.org/share/392eba91eb13781461b26a0a46a815cb) - September 2024
-* [Machine Learning Specialization](https://coursera.org/share/dcfebcc8d3b0bbce7199ded9e9311198) - September 2024
-* [TensorFlow Developer Certificate](https://www.credential.net/dc1e1d4c-0b56-4c66-8efe-62b8532ef2e4#gs.k32wiw) - December 2022
-* [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CVQYVGSZFQL8) - December 2022
-* [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VRNVSWB69V2Z) - November 2022
-* [Fundamentals of Neuroscience XSeries Program](https://credentials.edx.org/credentials/fbc7d2e3e643452a8e84be9b20fee495/) - May 2022
-
-### 💻 My Latest Blogs
+### My Latest Blogs
 
 * [From Genomes to Neurons: The role of Bioinformatics in Neuroscience Research](https://edaaydinea.com/2024/12/15/from-genomes-to-neurons-the-role-of-bioinformatics-in-neuroscience-research/)
 * [Decoding the Genome: How AI Is Revolutionizing Neurogenomics Research](https://edaaydinea.com/2024/10/06/decoding-the-genome-how-ai-is-revolutionizing-neurogenomics-research/)
@@ -92,9 +103,14 @@ I'm a NLP - LLM Engineer, Generative AI Data Scientist.
 * [MOBILISE Projesi](https://edaaydinea.com/2021/08/18/mobilise-projesi/)
 * [STOpFrac Projesi](https://edaaydinea.com/2021/08/18/stopfrac-projesi/)
 
+
+<!---
+
 ### 🥇Competitions
 
 <table><tbody><tr><td>Month/Year</td><td>Competition Name</td><td>URL</td><td>Score</td></tr><tr><td>February 2023</td><td>ML Olympiad 2023 - Breast Cancer Diagnosis</td><td><a href="https://www.kaggle.com/code/edaaydinea/ml-olympiad-breast-cancer-diagnosis">ML Olympiad-Breast Cancer Diagnosis | Kaggle</a></td><td>8/64</td></tr></tbody></table>
+
+--->
 
 ## My Skill Set
 
