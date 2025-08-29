@@ -19,11 +19,11 @@ I'm a AI Research Engineer in Neuroscience, NLP - LLM Engineer, Cognitive Data S
 | Role / Title                                   | Organization                 | Duration            |
 | ---------------------------------------------- | ---------------------------- | ------------------- |
 | Founder & AI Research Engineer in Neuroscience | NeuroQuantix                 | Jan 2025 – Present  |
-| AI Coding Specialist \| NLP Engineer           | Outlier                      | Nov 2024 – Present  |
+| AI Coding Specialist \| NLP Engineer           | Outlier                      | Nov 2024 – Jan 2025 |
 | Prompt Engineer                                | Outlier                      | Jul 2024 – Nov 2024 |
 | NLP Engineer                                   | hevi.ai                      | May 2023 – Jun 2024 |
-| Google Associate Cloud Engineer Apprentice     | UpSchool & Google Developers | Sep 2023 – Jan 2024 |
-| ML & Deep Learning Engineer Apprentice         | UpSchool & Google Developers | Jul 2022 – Jan 2023 |
+| Google Associate Cloud Engineer     | UpSchool & Google Developers | Sep 2023 – Jan 2024 |
+| ML & Deep Learning Engineer          | UpSchool & Google Developers | Jul 2022 – Jan 2023 |
 | Machine Learning Project Team Lead             | Kodluyoruz                   | Sep 2021 – Nov 2021 |
 | Artificial Intelligence Engineer (Internship)  | Coff R&D                     | Jan 2019 – Sep 2019 |
 
@@ -54,7 +54,6 @@ I'm a AI Research Engineer in Neuroscience, NLP - LLM Engineer, Cognitive Data S
 | Project                                                                             | Description                                       | Status      | Link                                                                                                                                    |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Predictive Modeling of Multiple Sclerosis Risk in CIS Patients                      | NeuroQuantix Research Project                     | 🟡 Ongoing   | —                                                                                                                                       |
-| CogniQuery: EEG Signal Processing and Classification for a Brain-Computer Interface | BCI Award 2025                                    | 🟡 Ongoing   | —                                                                                                                                       |
 | Distinguishing Cognitive Reading States using Advanced NLP and Transformers         | NeuroQuantix Research Project                     | ✅ Completed | [GitHub](https://github.com/edaaydinea/LLMAnalysisCognitiveStates)                                                                      |
 | Optimization of Human Sensory Neuron Differentiation for Pain Research              | LifeArc Biology Research Project                  | ✅ Completed | [GitHub](https://github.com/edaaydinea/LifeArc_BiologyResearch)                                                                         |
 | Low-Grade Glioma Segmentation                                                       | Up School Capstone Research Project               | ✅ Completed | [GitHub](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation)                                                                   |
