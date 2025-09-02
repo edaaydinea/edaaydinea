@@ -22,7 +22,6 @@ I'm a AI Research Engineer in Neuroscience, NLP - LLM Engineer, Cognitive Data S
 | AI Coding Specialist \| NLP Engineer           | Outlier                      | Nov 2024 – Aug 2025 |
 | Prompt Engineer                                | Outlier                      | Jul 2024 – Nov 2024 |
 | NLP Engineer                                   | hevi.ai                      | May 2023 – Jun 2024 |
-| Google Associate Cloud Engineer     | UpSchool & Google Developers | Sep 2023 – Jan 2024 |
 | ML & Deep Learning Engineer          | UpSchool & Google Developers | Jul 2022 – Jan 2023 |
 | Machine Learning Project Team Lead             | Kodluyoruz                   | Sep 2021 – Nov 2021 |
 | Artificial Intelligence Engineer (Internship)  | Coff R&D                     | Jan 2019 – Sep 2019 |
@@ -32,6 +31,7 @@ I'm a AI Research Engineer in Neuroscience, NLP - LLM Engineer, Cognitive Data S
 | Role / Title        | Organization          | Duration            |
 | ------------------- | --------------------- | ------------------- |
 | Data Mining Analyst | AYA: Açık Yazılım Ağı | Feb 2023 – May 2023 |
+| Research Student    | Arterys | Oct 2020 - Sep 2021 |
 
 ### My Virtual Internship Journey
 
