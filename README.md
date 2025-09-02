@@ -19,7 +19,7 @@ I'm a AI Research Engineer in Neuroscience, NLP - LLM Engineer, Cognitive Data S
 | Role / Title                                   | Organization                 | Duration            |
 | ---------------------------------------------- | ---------------------------- | ------------------- |
 | Founder & AI Research Engineer in Neuroscience | NeuroQuantix                 | Jan 2025 – Present  |
-| AI Coding Specialist \| NLP Engineer           | Outlier                      | Nov 2024 – Jan 2025 |
+| AI Coding Specialist \| NLP Engineer           | Outlier                      | Nov 2024 – Aug 2025 |
 | Prompt Engineer                                | Outlier                      | Jul 2024 – Nov 2024 |
 | NLP Engineer                                   | hevi.ai                      | May 2023 – Jun 2024 |
 | Google Associate Cloud Engineer     | UpSchool & Google Developers | Sep 2023 – Jan 2024 |
