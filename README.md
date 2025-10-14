@@ -26,7 +26,9 @@ My research and project portfolio highlights my practical skills in applying AI 
 * **Predictive Modeling of Multiple Sclerosis Risk in CIS Patients**
   * _Description: An ongoing NeuroQuantix research initiative focused on developing advanced predictive models for the early identification and risk stratification of Multiple Sclerosis in Clinically Isolated Syndrome (CIS) patients. This project utilizes multimodal data analysis to enhance prognostic accuracy, aiming to improve patient outcomes through timely intervention._
   * _Status: 🟡 Ongoing_
-
+* **Generative AI Knowledge Base with AWS Bedrock, Aurora & Terraform**
+  * _Description: An end-to-end Retrieval-Augmented Generation (RAG) system built on AWS to enable natural language querying of a technical document knowledge base. The project involved architecting a scalable cloud infrastructure with Terraform, creating a vector database on Aurora PostgreSQL, and developing a Python application with a prompt validation layer to interact with AWS Bedrock._
+  * _Status: ✅ Completed_ | [GitHub](https://github.com/edaaydinea/udacity_aws_ai_engineer_assignment2)
 * **Smart Budget Buddy: A Responsible AI Agent**
   * _Description: Designed and developed a conversational AI agent to guide high school students in financial literacy, with a core focus on safety and responsible AI principles. Implemented AWS Bedrock Guardrails to prevent the generation of harmful, biased, or speculative financial advice, and conducted user-centric testing to refine the agent's accuracy and conversational logic._
   * _Status: ✅ Completed_ | [GitHub](https://github.com/edaaydinea/edaaydinea/blob/main/documents/BedrockAgent_Project_EdaAYDIN.pdf)
@@ -118,6 +120,7 @@ My accomplishments underscore a strong aptitude for AI and research, validated t
 
 My commitment to continuous learning is demonstrated through a robust portfolio of certifications in key AI and data science domains.
 
+* **Future AWS AI Engineer** | AWS / Udacity (_October 2025_) - [Certificate](www.udacity.com/certificate/e/ae776a54-8152-11f0-a223-9fc7c313cb3a)
 * **IBM Machine Learning Specialist Advanced Badge** | IBM / Credly (_January 2025_) - [Certificate](https://www.credly.com/badges/f83e64ac-6dd9-4863-bb56-598df68a52fd/public_url)
 * **AI for Healthcare Specialization** | DeepLearning.AI / Coursera (_October 2024_) - [Certificate](https://coursera.org/share/100ff7a2f8331292b486d5aa677f82e5) · [Transcript](https://github.com/edaaydinea/AIinHealthcare/blob/main/transcript.pdf)
 * **Computational Neuroscience** | University of Washington / Coursera (_September 2024_) - [Certificate](https://coursera.org/share/e8e1feb716da218f96458f0d551319d5)
@@ -132,13 +135,13 @@ My commitment to continuous learning is demonstrated through a robust portfolio 
 
 I am proficient in a diverse range of tools, frameworks, and programming languages, enabling me to execute high-level research and develop robust AI solutions.
 
-* **Programming and Language Technologies**: Python, R, SQL, MATLAB, Bash
-* **Data Science & Machine Learning**: PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Hugging Face, LangChain
+* **Programming and Language Technologies**: Python, R, SQL (PostgreSQL), MATLAB, Bash
+* **Data Science & Machine Learning**: PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Hugging Face, LangChain, Retrieval-Augmented Generation (RAG), Prompt Engineering
 * **Computational Neuroscience**: Neuroimaging Analysis (MNE-Python, Nilearn, NiBabel, FSL), Medical Image Analysis, Statistical Modeling
-* **Cloud Technologies**: Google Cloud Platform (GCP), AWS, Azure , Compute Engine, Load Balancing
-* **DevOps & Version Control**: Docker, Kubernetes, Git, MLflow , Infrastructure as Code (IaC)
+* **Cloud Technologies**: AWS (Bedrock, S3, Aurora, SageMaker, Guardrails), Google Cloud Platform (GCP), Azure
+* **DevOps & Version Control**: Docker, Kubernetes, Git, MLflow , Terraform (Infrastructure as Code)
 * **Web & API Development**: FastAPI, Gradio, Ollama
-* **Research Skills**: Experimental Design, Statistical Analysis, Data Synthesis, Benchmarking, Model Validation, Scientific Communication
+* **Research Skills**: Responsible AI, AI Agent Design, Experimental Design, Statistical Analysis, Data Synthesis, Benchmarking, Model Validation, Scientific Communication
 
 ## Publications & Blogs
 
