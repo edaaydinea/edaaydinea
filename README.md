@@ -91,22 +91,6 @@ My commitment extends beyond professional roles, encompassing significant contri
   * _October 2020 - September 2021_
   * _Participated in research activities focused on medical imaging and AI applications in diagnostics._
 
-## Virtual Internship Programs
-
-These virtual internships provided valuable practical experience and exposure to diverse industry applications, enhancing my skills in data science, analytics, and biological research.
-
-* **Global Markets Sales and Trading Analyst** | Bank of America (_May 2025_) - [GitHub](https://github.com/edaaydinea/BankofAmerica_GlobalMarketsSalesTradingAnalyst)
-* **Biology Research Internship Program** | Life Arc (_April 2025 – May 2025_) - [GitHub](https://github.com/edaaydinea/LifeArc_BiologyResearch)
-* **Data Science & Analytics Internship Program** | Lloyds Banking Group (_March 2025 – April 2025_) - [GitHub](https://github.com/edaaydinea/LloydsDataScienceAnalytics)
-* **Data Science Virtual Internship Program** | Commonwealth Bank (_February 2025 – March 2025_) - [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_Qc5J6kzq88L9BDRGv_1740872118840_completion_certificate.pdf)
-* **Data Visualization: Empowering Business with Effective Insights** | TATA (_February 2025_) - [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_Qc5J6kzq88L9BDRGv_1740414093554_completion_certificate.pdf)
-* **Data Analytics Virtual Internship Program** | Deloitte (_February 2025_) - [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Qc5J6kzq88L9BDRGv_1740000262094_completion_certificate.pdf)
-* **NLP - GenAI Virtual Internship Program** | Boston Consulting Group (BCG) (_February 2025_) - [GitHub](https://github.com/edaaydinea/BCGxGENAI)
-* **Data Science Virtual Internship Program** | Boston Consulting Group (BCG) (_February 2025_) - [GitHub](https://github.com/edaaydinea/BCGxDataScience/tree/main)
-* **Data Analytics Virtual Internship Program** | Quantium (_February 2025_) - [GitHub](https://github.com/edaaydinea/quantiumDataAnalytics/tree/main)
-* **Data Science Virtual Internship Program** | British Airways (_January 2025 – February 2025_) - [GitHub](https://github.com/edaaydinea/BritishAirwaysDataScience/tree/main)
-* **Power BI Virtual Internship Program** | PwC Switzerland (_January 2025_) - [GitHub](https://github.com/edaaydinea/PwCSwitzerland_PowerBI/tree/main)
-
 ## Achievements
 
 My accomplishments underscore a strong aptitude for AI and research, validated through competitive programs and rigorous evaluations.
