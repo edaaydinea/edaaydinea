@@ -26,25 +26,35 @@ I am an AI Research Engineer working at the intersection of **Artificial Intelli
 
 ## Research Projects
 
-* **Predictive Modeling of Multiple Sclerosis Risk in CIS Patients (NeuroQuantix)** (🟡 Ongoing – Research)
+* **Predictive Modeling of Multiple Sclerosis Risk in CIS Patients (NeuroQuantix)**
+  * 🟡 Ongoing – Research
   * _Multimodal predictive models are being developed to identify early Multiple Sclerosis risk in Clinically Isolated Syndrome patients._
-* **Generative AI Knowledge Base with AWS Bedrock, Aurora & Terraform (Udacity - AWS)** 👉 [GitHub](https://github.com/edaaydinea/udacity_aws_ai_engineer_assignment2) - (✅ Completed – Industry)
+* **Generative AI Knowledge Base with AWS Bedrock, Aurora & Terraform (Udacity - AWS)** 
+  * ✅ Completed – Industry | 👉 [GitHub](https://github.com/edaaydinea/udacity_aws_ai_engineer_assignment2)
   * _A cloud-native RAG system was built to enable natural language querying over technical documents using AWS infrastructure._
-* **Smart Budget Buddy: A Responsible AI Agent (Udacity - AWS)** 👉 [GitHub](https://github.com/edaaydinea/edaaydinea/blob/main/documents/BedrockAgent_Project_EdaAYDIN.pdf) - (✅ Completed – Industry)
+* **Smart Budget Buddy: A Responsible AI Agent (Udacity - AWS)** 
+  * ✅ Completed – Industry | 👉 [GitHub](https://github.com/edaaydinea/edaaydinea/blob/main/documents/BedrockAgent_Project_EdaAYDIN.pdf)
   * _A safety-focused conversational AI agent was developed to teach financial literacy using responsible AI guardrails._
-* **Distinguishing Cognitive Reading States using NLP and Transformers (NeuroQuantix)** 👉 [GitHub](https://github.com/edaaydinea/LLMAnalysisCognitiveStates) - (✅ Completed – Research)
+* **Distinguishing Cognitive Reading States using NLP and Transformers (NeuroQuantix)** 
+  * ✅ Completed – Research | 👉 [GitHub](https://github.com/edaaydinea/LLMAnalysisCognitiveStates)
   * _Transformer-based NLP models were applied to classify cognitive reading states using linguistic features from the ZuCo dataset._
-* **Optimization of Human Sensory Neuron Differentiation for Pain Research (LifeArc)** 👉 [GitHub](https://github.com/edaaydinea/LifeArc_BiologyResearch) - (✅ Completed – Research)
+* **Optimization of Human Sensory Neuron Differentiation for Pain Research (LifeArc)** 
+  * ✅ Completed – Research) | 👉 [GitHub](https://github.com/edaaydinea/LifeArc_BiologyResearch)
   * _Multimodal data analysis was used to optimize fibroblast-to-sensory neuron differentiation protocols for pain research._
-* **Low-Grade Glioma Segmentation** 👉 [GitHub](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation) - (Completed – Research)
+* **Low-Grade Glioma Segmentation** 
+  * ✅ Completed – Research | 👉 [GitHub](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation)
   * _Deep learning–based segmentation models were developed to identify low-grade gliomas from brain MRI scans._
-* **Alzheimer’s Disease Progression Prediction with MRI** 👉 [GitHub](https://github.com/edaaydinea/OP2-Prediction-of-the-Different-Progressive-Levels-of-Alzheimer-s-Disease-with-MRI-data) - (✅ Completed – Research)
+* **Alzheimer’s Disease Progression Prediction with MRI** 
+  * ✅ Completed – Research | 👉 [GitHub](https://github.com/edaaydinea/OP2-Prediction-of-the-Different-Progressive-Levels-of-Alzheimer-s-Disease-with-MRI-data)
   * _MRI-based features were used with machine learning models to predict the progression stages of Alzheimer’s disease._
-* **Personalized Medicine: Redefining Cancer Treatment** 👉 [GitHub](https://github.com/edaaydinea/personalized-medicine-redefining-cancer-treatment) - (✅ Completed – Research)
+* **Personalized Medicine: Redefining Cancer Treatment**
+  * ✅ Completed – Research | 👉 [GitHub](https://github.com/edaaydinea/personalized-medicine-redefining-cancer-treatment)
   * _Personalized therapeutic strategies based on patient-specific data._
-* **Estimating COVID-19 ICU Admission Probability** 👉 [GitHub](https://github.com/edaaydinea/Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU-) - (✅ Completed – Research)
+* **Estimating COVID-19 ICU Admission Probability**
+  * ✅ Completed – Research | 👉 [GitHub](https://github.com/edaaydinea/Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU-)
   * _Predictive models were developed to estimate the likelihood of confirmed COVID-19 patients requiring ICU admission._
-* **Pneumonia Detection on Chest X-ray Images (Keras)** 👉 [GitHub](https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning) - (✅ Completed – Research)
+* **Pneumonia Detection on Chest X-ray Images (Keras)**
+  * ✅ Completed – Research | 👉 [GitHub](https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning)
   * _Deep learning models implemented with Keras were used to classify pneumonia from chest X-ray images._
 
 
