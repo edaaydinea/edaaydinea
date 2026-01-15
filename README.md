@@ -117,8 +117,12 @@ I am an AI Research Engineer working at the intersection of **Artificial Intelli
 
 ## Publications & Scientific Writing
 
-Selected articles on AI, neuroscience, and healthcare:  
-👉 [https://edaaydinea.com/blogposts/](https://edaaydinea.com/blogposts/)
+Curated scientific and research-oriented writing on AI, neuroscience, and healthcare:
+
+👉 [Scientific Writings – AI & Neuroscience](https://edaaydinea.com/blogposts/)  
+👉 [AI News in Healthcare – Research Commentary](https://edaaydinea.com/ai-news-in-healthcare/)  
+👉 [NeuroQuantix Research Blog](https://neuroquantix.tech/blog/)
+
 
 ## Connect with Me
 
