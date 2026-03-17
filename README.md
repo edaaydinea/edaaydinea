@@ -1,34 +1,31 @@
 # Eda AYDIN
-**AI Research Engineer in Neuroscience | Cognitive AI Scientist**
+**AI Research Engineer | Cognitive AI & Human-Machine Interaction (HMI)**
 
 ## About Me
 
-I am an AI Research Engineer working at the intersection of **Artificial Intelligence and healthcare**, with a focused interest in **neuropathic pain and neuroscience**. My expertise spans **AI research in neuroscience, NLP and Large Language Model (LLM) engineering, and cognitive data science**, allowing me to approach complex biological and cognitive problems from both research and applied perspectives. Driven in part by a personal connection to chronic pain, my work is centered on translating advanced AI methodologies into clinically meaningful and interpretable models. My long-term goal is to develop **AI-driven diagnostic and predictive systems for neuropathic pain** that enable early risk identification and treatment response forecasting, contributing to interdisciplinary research and industry-aligned development in personalized pain management.
+I am an AI Research Engineer and Computational Neuroscientist pivoting into the intersection of **advanced Human-Machine Interaction(HMI) and high-performance motorsports**, with a focused interest in ****. My expertise spans **deep learning, real-time biomarker analysis, NLP (LLMs), and cloud-native AI architecture (AWS)**. While my foundational background lies in clinical neuroscience, my current focus is on dynamic cognitive mapping—developing predictive AI systems that analyze decision-making under extreme time pressure and physical stress. My goal is to engineer low-latency, life-saving predictive algorithms that transform multi-modal telemetry and neural data into actionable safety protocols for elite racing, autonomous systems, and high-stakes environments.
 
 ---
 
 ### Technical Focus
-- Machine Learning & Deep Learning
-- NLP & Large Language Models (LLMs)
+- Machine Learning, Deep Learning & Edge AI
+- NLP, Large Language Models (LLMs) & Prompt Engineering
 - AI Agents & Responsible AI
-- Healthcare AI & medical data
-- Cloud-native AI systems (AWS)
+- Cloud-Native AI Architecture (AWS) & Real-Time Data Pipelines
+- Sensor Fusion & Multimodal Data Analysis
 
 ---
 
 ### Research Focus
-- Neuropathic pain & sensory neuroscience  
-- Multiple Sclerosis & neurodegenerative disorders  
-- Cognitive reading states & attention  
-- Multimodal AI for clinical prediction  
+- Predictive Neural Mapping & Cognitive Safety Systems 
+- Decision-Making Under Extreme Time Pressure & Stress  
+- High-Performance Motorsports Telemetry & Human-in-the-Loop AI  
+- Cognitive Load Optimization & Advanced HMI
 
 ---
 
 ## Research Projects
 
-* **Predictive Modeling of Multiple Sclerosis Risk in CIS Patients (NeuroQuantix)**
-  * 🟡 Ongoing – Research
-  * _Multimodal predictive models are being developed to identify early Multiple Sclerosis risk in Clinically Isolated Syndrome patients._
 * **Generative AI Knowledge Base with AWS Bedrock, Aurora & Terraform (Udacity - AWS)** 
   * ✅ Completed – Industry | 👉 [GitHub](https://github.com/edaaydinea/udacity_aws_ai_engineer_assignment2)
   * _A cloud-native RAG system was built to enable natural language querying over technical documents using AWS infrastructure._
