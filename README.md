@@ -35,7 +35,9 @@ I am an AI Research Engineer and Computational Neuroscientist pivoting into the 
 * **Distinguishing Cognitive Reading States using NLP and Transformers (NeuroQuantix)** 
   * ✅ Completed – Research | 👉 [GitHub](https://github.com/edaaydinea/LLMAnalysisCognitiveStates)
   * _Transformer-based NLP models were applied to classify cognitive reading states using linguistic features from the ZuCo dataset._
-* **Optimization of Human Sensory Neuron Differentiation for Pain Research (LifeArc)** 
+
+<!--
+**Optimization of Human Sensory Neuron Differentiation for Pain Research (LifeArc)** 
   * ✅ Completed – Research) | 👉 [GitHub](https://github.com/edaaydinea/LifeArc_BiologyResearch)
   * _Multimodal data analysis was used to optimize fibroblast-to-sensory neuron differentiation protocols for pain research._
 * **Low-Grade Glioma Segmentation** 
@@ -53,7 +55,7 @@ I am an AI Research Engineer and Computational Neuroscientist pivoting into the 
 * **Pneumonia Detection on Chest X-ray Images (Keras)**
   * ✅ Completed – Research | 👉 [GitHub](https://github.com/edaaydinea/Pneumonia-Detection-on-Chest-Xray-Images-with-Deep-Leaning)
   * _Deep learning models implemented with Keras were used to classify pneumonia from chest X-ray images._
-
+-->
 
 ---
 
@@ -67,7 +69,7 @@ I am an AI Research Engineer and Computational Neuroscientist pivoting into the 
 
 ## Professional Experience
 
-* **Founder & AI Research Engineer in Neuroscience** | NeuroQuantix (Jan 2025 - Present)
+* **Founder & AI Research Engineer in Human-Machine Interaction (HMI) and high-performance motorsports** | NeuroQuantix (Jan 2025 - Present)
 * **AI Coding Specialist | NLP Engineer** | Outlier (Nov 2024 - Aug 2025)
 * **Prompt Engineer** | Outlier (Jul 2024 - Nov 2024)
 * **NLP Engineer** | hevi.ai (May 2023 - Jun 2024)
