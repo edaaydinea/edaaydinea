@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am an AI Research Engineer and Computational Neuroscientist pivoting into the intersection of **advanced Human-Machine Interaction(HMI) and high-performance motorsports**, with a focused interest in ****. My expertise spans **deep learning, real-time biomarker analysis, NLP (LLMs), and cloud-native AI architecture (AWS)**. While my foundational background lies in clinical neuroscience, my current focus is on dynamic cognitive mapping—developing predictive AI systems that analyze decision-making under extreme time pressure and physical stress. My goal is to engineer low-latency, life-saving predictive algorithms that transform multi-modal telemetry and neural data into actionable safety protocols for elite racing, autonomous systems, and high-stakes environments.
+I am an AI Research Engineer and Computational Neuroscientist pivoting into the intersection of **advanced Human-Machine Interaction(HMI) and high-performance motorsports**. My expertise spans **deep learning, real-time biomarker analysis, NLP (LLMs), and cloud-native AI architecture (AWS)**. While my foundational background lies in clinical neuroscience, my current focus is on dynamic cognitive mapping—developing predictive AI systems that analyze decision-making under extreme time pressure and physical stress. My goal is to engineer low-latency, life-saving predictive algorithms that transform multi-modal telemetry and neural data into actionable safety protocols for elite racing, autonomous systems, and high-stakes environments.
 
 ---
 
