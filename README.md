@@ -116,11 +116,11 @@ I am an AI Research Engineer and Computational Neuroscientist pivoting into the 
 
 ## Publications & Scientific Writing
 
-Curated scientific and research-oriented writing on AI, neuroscience, and healthcare:
+Curated scientific and research-oriented writing on AI, neuroscience, and motorsports:
 
 👉 [Scientific Writings – AI & Neuroscience](https://edaaydinea.com/blogposts/)  
-👉 [AI News in Healthcare – Research Commentary](https://edaaydinea.com/ai-news-in-healthcare/)  
-👉 [NeuroQuantix Research Blog](https://neuroquantix.tech/blog/)
+👉 [NeuroQuantix Research (Neuroscience & Motosports) Blog](https://neuroquantix.tech/blog/)
+👉 [Synaptic Library Blog](https://synapticlibrary.blog/)
 
 
 ## Connect with Me
