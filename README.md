@@ -1,9 +1,13 @@
 # Eda AYDIN
-**AI Research Engineer | Cognitive AI & Human-Machine Interaction (HMI)**
+**AI Research Engineer | Cognitive Data Science & Human-Machine Interaction (HMI)**
 
 ## About Me
 
-I am an AI Research Engineer and Computational Neuroscientist pivoting into the intersection of **advanced Human-Machine Interaction(HMI) and high-performance motorsports**. My expertise spans **deep learning, real-time biomarker analysis, NLP (LLMs), and cloud-native AI architecture (AWS)**. While my foundational background lies in clinical neuroscience, my current focus is on dynamic cognitive mapping—developing predictive AI systems that analyze decision-making under extreme time pressure and physical stress. My goal is to engineer low-latency, life-saving predictive algorithms that transform multi-modal telemetry and neural data into actionable safety protocols for elite racing, autonomous systems, and high-stakes environments.
+I am an AI Research Engineer and Cognitive Data Scientist working at the intersection of human-machine interaction, multimodal machine learning, and high-performance motorsports systems. My background spans deep learning, NLP/LLMs, physiological signal modeling, and cloud-based AI infrastructure on AWS.
+
+While my early work focused on clinical and cognitive neuroscience applications, my current research direction centers on modeling human decision-making under extreme time pressure, cognitive load, and physical stress. Through NeuroQuantix, I explore how multimodal physiological and behavioral signals can be integrated into low-latency AI systems capable of real-time cognitive state estimation in safety-critical environments.
+
+My long-term goal is to develop human-in-the-loop AI systems that improve reliability, adaptation, and safety in high-performance settings such as motorsports and autonomous systems.
 
 ---
 
