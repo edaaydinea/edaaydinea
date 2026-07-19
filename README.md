@@ -122,9 +122,9 @@ My long-term goal is to develop human-in-the-loop AI systems that improve reliab
 
 Curated scientific and research-oriented writing on AI, neuroscience, and motorsports:
 
-👉 [Scientific Writings – AI & Neuroscience](https://edaaydinea.com/blogposts/)  
-👉 [NeuroQuantix Research (Neuroscience & Motosports) Blog](https://neuroquantix.tech/blog/)  
-👉 [Synaptic Library Blog](https://synapticlibrary.blog/)
+👉 [Scientific Writings – AI & Neuroscience & Motorsports](https://edaaydinea.com/blogposts/)  
+👉 [NeuroQuantix Research Hub](https://neuroquantix.org/blog/)  
+👉 [Synaptic Library](https://synapticlibrary.blog/)
 
 
 ## Connect with Me
